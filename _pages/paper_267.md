@@ -1,0 +1,29 @@
+---
+layout: page
+title: "Visual Localization and Mapping with Hybrid SFA"
+subtitle: 
+description:
+permalink: /paper_267/
+grand_parent: All Papers
+parent: Tuesday
+supp: 
+code: 
+youtubeId: 
+---
+
+# Visual Localization and Mapping with Hybrid SFA
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1SYz22RgSEj54UfXZHnr-Wxoy8szGdQO6/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Muhammad Haris (Frankfurt University of Applied Sciences)*; Mathias Franzius (Honda Research Institute Europe GmbH); Ute Bauer-Wersing (Frankfurt University of Applied Sciences); Sai Krishna Kaushik Karanam  (Frankfurt University of Applied Sciences)**
+
+#### Abstract
+Visual localization is a crucial requirement in mobile robotics, field and service robotics, and self-driving cars. Recently, unsupervised learning with Slow Feature Analysis (SFA) has shown to produce spatial representations that enable localization from holistic images. The approach is faster and much less complex than state-of-the-art monocular visual SLAM methods while achieving similar localization performance in small-scale environments. However, the holistic approach's performance drops significantly for highly complex, large-scale environments due to scene variations occurring during a training phase. Instead of using holistic images, an alternative is to perform localization relative to unique regions present in a scene. Therefore, in this paper, we add a new component to the SFA localization pipeline that leverages state-of-the-art CNN to identify unique image regions. Hence we propose a hybrid approach that first learns such regions with a pre-trained CNN and then uses SFA for unsupervised pose estimation relative to each region. We present the experimental results from an autonomous robot in two different outdoor environments of varying complexity and size. The experiments show the proposed hybrid approach outperforms holistic SFA w.r.t localization accuracy in both environments, but benefits are more pronounced in the large-scale environment. 
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal

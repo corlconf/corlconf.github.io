@@ -1,0 +1,31 @@
+---
+layout: page
+title: "MultiPoint: Cross-spectral registration of thermal and optical aerial imagery"
+subtitle: 
+description:
+permalink: /paper_392/
+grand_parent: All Papers
+parent: Tuesday
+supp: 
+code: https://github.com/ethz-asl/multipoint
+youtubeId: 
+---
+
+# MultiPoint: Cross-spectral registration of thermal and optical aerial imagery
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1ZLUrgdCfsXLhyW2RPgDb4ijzE8AwAfMk/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Florian Achermann (ETH Zurich)*; Andrey Kolobov (Microsoft); Debadeepta Dey (Microsoft); Timo Hinzmann (ETH Zürich); Jen Jen Chung (ETH Zurich); Roland Siegwart (ETH Zürich, Autonomous Systems Lab); Nicholas Lawrance (ETH Zürich)**
+
+#### Abstract
+While optical cameras are ubiquitous in robotics, some robots can sense the world in several sections of the electromagnetic spectrum simultaneously, which can extend their capabilities in fundamental ways. For instance, many fixed-wing UAVs carry both optical and thermal imaging cameras, potentially allowing them to detect temperature difference-induced atmospheric updrafts, map their locations, and adjust their flight path accordingly to increase their time aloft. A key step for unlocking the potential offered by multi-spectral data is generating consistent, multi-spectral maps of the environment. In this work, we introduce MultiPoint, a novel data-driven method for generating interest points and associated descriptors for registering optical and thermal image pairs without knowledge of the relative camera viewpoints. Existing pixel-based alignment methods are accurate but too slow to work in near-real time, while feature-based methods such as SuperPoint are fast but produce poor-quality cross-spectral matches due to interest point instability in thermal images. MultiPoint capitalizes on the strengths of both approaches.
+An offline mutual information-based procedure is used to align cross-spectral image pairs from a training set, which are then processed by our generalized multi-spectral homographic adaptation stage to generate highly repeatable interest points that are invariant across viewpoint changes in both spectra. These are used to train a MultiPoint deep neural network by exposing  this model to both same-spectrum and cross-spectral image pairs. This model is then deployed for fast and accurate online interest point detection. 
+We show that MultiPoint outperforms existing techniques for feature-based image alignment using a dataset of real-world thermal-optical imagery captured by a UAV during flights in different conditions and release this dataset, the first of its kind.
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal

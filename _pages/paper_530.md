@@ -1,0 +1,29 @@
+---
+layout: page
+title: "Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching"
+subtitle: 
+description:
+permalink: /paper_530/
+grand_parent: All Papers
+parent: Monday
+supp: 
+code: https://github.com/jessychen1016/DPCN
+youtubeId: 
+---
+
+# Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1SmAayWXB2J5A2AkgwNB-yyejxAjG-6HH/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Zexi Chen (Zhejiang University); Xuecheng Xu (Zhejiang University); Yue Wang (Zhejiang University)*; Rong Xiong (Zhejiang University)**
+
+#### Abstract
+The crucial step for localization is to match the current observation to the map. When the two sensor modalities are significantly different, matching becomes challenging. In this paper, we present an end-to-end deep phase correlation network (DPCN) to match heterogeneous sensor measurements. In DPCN, the primary component is a differentiable correlation-based estimator that back-propagates the pose error to learnable feature extractors, which addresses the problem that there are no direct common features for supervision. In addition, it eliminates the exhaustive evaluation in some previous methods, improving efficiency. With the interpretable modeling, the network is light-weighted and promising for better generalization. We evaluate the system on both the simulation data and Aero-Ground Dataset which consists of heterogeneous sensor images and aerial images acquired by satellites or aerial robots. The results show that our method is able to match the heterogeneous sensor measurements, outperforming the comparative traditional phase correlation and other learning-based methods. Code is available at <a href="https://github.com/jessychen1016/DPCN" target="_blank">https://github.com/jessychen1016/DPCN</a>.
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal

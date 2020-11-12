@@ -1,0 +1,29 @@
+---
+layout: page
+title: "Planning Paths Through Unknown Space by Imagining What Lies Therein"
+subtitle: 
+description:
+permalink: /paper_195/
+grand_parent: All Papers
+parent: Monday
+supp: https://drive.google.com/file/d/1UITHjhloH5cLvPylso0J9-vtZmePsc6M/view
+code: https://github.com/yh675/PlanningByImagining
+youtubeId: 
+---
+
+# Planning Paths Through Unknown Space by Imagining What Lies Therein
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1_m8xORZEBuShlZFL3hbT0upxVyxyjC-q/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Yutao Han (Cornell University)*; Jacopo Banfi (Cornell University); Mark Campbell (Cornell University)**
+
+#### Abstract
+This paper presents a novel framework for planning paths in maps containing unknown spaces, such as from occlusions. Our approach takes as input a semantically-annotated point cloud, and leverages an image inpainting neural network to generate a reasonable model of unknown space as free or occupied. Our validation campaign shows that it is possible to greatly increase the performance of standard pathfinding algorithms which adopt the general optimistic assumption of treating unknown space as free.
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal

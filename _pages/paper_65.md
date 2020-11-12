@@ -1,0 +1,29 @@
+---
+layout: page
+title: "PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving"
+subtitle: 
+description:
+permalink: /paper_65/
+grand_parent: All Papers
+parent: Monday
+supp: https://drive.google.com/file/d/1RvKJHIuPhdpdA5aUb2ahWhRXjl9jXAQv/view
+code: 
+youtubeId: 
+---
+
+# PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1--QAL2sR7KMk9R4DwxyfJAT5iGCheFrn/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Thibault Buhet (Valeo); Emilie Wirbel (Valeo)*; Andrei Bursuc (valeo.ai); Xavier Perrotton (Valeo)**
+
+#### Abstract
+To navigate safely in urban environments, an autonomous vehicle (ego vehicle) must understand and anticipate its surroundings, in particular the behavior and intents of other road users (neighbors). Most of the times, multiple decision choices are acceptable for all road users (e.g., turn right or left, or different ways of avoiding an obstacle), leading to a highly uncertain and multi-modal decision space. We focus here on predicting multiple feasible future trajectories for both ego vehicle and neighbors through a probabilistic framework. We rely on a conditional imitation learning algorithm, conditioned by a navigation command for the ego vehicle (e.g., “turn right”). Our model processes ego vehicle front-facing camera images and bird-eye view grid, computed from Lidar point clouds, with detections of past and present objects, in order to generate multiple trajectories for both ego vehicle and its neighbors. Our approach is computationally efficient and relies only on on-board sensors. We evaluate our method offline on the publicly available dataset nuScenes, achieving state-of-the-art performance, investigate the impact of our architecture choices on online simulated experiments and show preliminary insights for real vehicle control.
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal

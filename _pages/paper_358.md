@@ -1,0 +1,29 @@
+---
+layout: page
+title: "A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects"
+subtitle: 
+description:
+permalink: /paper_358/
+grand_parent: All Papers
+parent: Tuesday
+supp: 
+code: 
+youtubeId: 
+---
+
+# A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects
+
+[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1quDURs-x9x02tfxmCnxoi210dumoErf2/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
+{% endif %}
+
+#### Authors
+**Anthony Simeonov (Massachusetts Institute of Technology)*; Yilun Du (MIT); Beomjoon Kim (MIT); Francois Hogan (MIT); Joshua Tenenbaum (MIT); Pulkit Agrawal (UC Berkeley); Alberto Rodriguez (MIT)**
+
+#### Abstract
+We present a framework for solving long-horizon planning problems involving manipulation of rigid objects that operates directly from a point-cloud observation. Our method plans in the space of object subgoals and frees the planner from reasoning about robot-object interaction dynamics. We show that for rigid-bodies, this abstraction can be realized using low-level manipulation skills that maintain sticking-contact with the object and represent subgoals as 3D transformations. To enable generalization to unseen objects and improve planning performance, we propose a novel way of representing subgoals for rigid-body manipulation and a graph-attention based neural network architecture for processing point-cloud inputs. We experimentally validate these choices using simulated and real-world experiments on the YuMi robot. Results demonstrate that our method can successfully manipulate new objects into target configurations requiring long-term planning. Overall, our framework realizes the best of the worlds of task-and-motion planning (TAMP) and learning-based approaches. Project website: <a href="https://anthonysimeonov.github.io/rpo-planning-framework/" target="_blank">https://anthonysimeonov.github.io/rpo-planning-framework/</a>.
+
+#### Video 
+
+#### Reviews
+
+#### Rebuttal
