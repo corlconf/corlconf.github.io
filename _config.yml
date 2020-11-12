@@ -1,0 +1,17 @@
+remote_theme: pmarsceill/just-the-docs
+title: STARS Papers
+description: Public pages for research published by the STARS Lab.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://papers.starslab.ca" # the base hostname & protocol for your site, e.g. http://example.com
+footer_content: "Space and Terrestrial Autonomous Systems Lab - University of Toronto Institute for Aerospace Studies"
+
+
+include:
+  - _pages                  # all your pages can be put inside pages (except articles)
+
+exclude:
+  - README.md
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-font-awesome-sass
