@@ -1,9 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
-title: STARS Papers
-description: Public pages for research published by the STARS Lab.
+title: CoRL 2020 Papers
+description: Publications accepted to CoRL 2020.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://papers.starslab.ca" # the base hostname & protocol for your site, e.g. http://example.com
-footer_content: "Space and Terrestrial Autonomous Systems Lab - University of Toronto Institute for Aerospace Studies"
+url: "https://corlconf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+footer_content: "Conference on Robot Learning 2020"
 
 
 include:
