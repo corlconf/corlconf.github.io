@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Robin STRUDEL (INRIA Paris)*; Ricardo Garcia Pinel (INRIA); Justin Carpentier (INRIA); Jean-Paul Laumond (LAAS-CNRS); Ivan Laptev (INRIA Paris); Cordelia Schmid (INRIA)**
 
+#### Interactive Session
+*2020-11-17, 12:30 - 13:00 PST*
+
 #### Abstract
 Motion planning and obstacle avoidance is a key challenge in robotics applications. While previous work succeeds to provide excellent solutions for known environments, sensor-based motion planning in new and dynamic environments remains to be  difficult. In this work we address sensor-based motion planning from a learning perspective. Motivated by recent advances in visual recognition, we argue the importance of learning appropriate representations for motion planning. We propose a new obstacle representation based on the PointNet architecture and learn it jointly with policies for obstacle avoidance. We experimentally evaluate our approach for rigid body motion planning in challenging environments and demonstrate significant improvements of the state of the art in terms of accuracy and efficiency. 
 

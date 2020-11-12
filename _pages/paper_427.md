@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Hanhan Li (Google AI); Ariel Gordon (Google Research)*; Hang Zhao (Waymo); Vincent Casser (Waymo); Anelia Angelova (Google)**
 
+#### Interactive Session
+*2020-11-16, 11:10 - 11:40 PST*
+
 #### Abstract
 We present a method for jointly training the estimation of depth, ego-motion, and a dense 3D translation field of objects relative to the scene, with monocular photometric consistency being the sole source of supervision. We show that this apparently heavily underdetermined problem can be regularized by imposing the following prior knowledge about 3D translation fields: they are sparse, since most of the scene is static, and they tend to be piecewise constant for rigid moving objects. We show that this regularization alone is sufficient to train monocular depth prediction models that exceed the accuracy achieved in prior work for dynamic scenes, including methods that require semantic input.
 

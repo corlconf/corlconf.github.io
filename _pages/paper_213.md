@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Maria Bauza Villalonga (MIT)*; Alberto Rodriguez (MIT); Bryan Lim (MIT); Eric  Valls (MIT); Theo  Sechopoulos (MIT)**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 In this paper, we present an approach to tactile pose estimation from the first touch for known objects. First, we create an object-agnostic map from real tactile observations to contact shapes. Next, for a new object with known geometry, we learn a tailored perception model completely in simulation. To do so, we simulate the contact shapes that a dense set of object poses would produce on the sensor. Then, given a new contact shape obtained from the sensor output, we match it against the pre-computed set using the object-specific embedding learned purely in simulation using contrastive learning.
 

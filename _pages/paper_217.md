@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Cristina Pinneri (Max Planck Institute for Intelligent Systems)*; Shambhuraj Sawant (Max Planck Institute for Intelligent Systems); Sebastian Blaes (Max Planck Institute for Intelligent Systems); Jan Achterhold (Max Planck Institute for Intelligent Systems); Joerg Stueckler (Max-Planck-Institute for Intelligent Systems); Michal Rolinek (Max Planck Institute for Intelligent Systems); Georg Martius (Max Planck Institute for Intelligent Systems)**
 
+#### Interactive Session
+*2020-11-16, 11:10 - 11:40 PST*
+
 #### Abstract
 Trajectory optimizers for model-based reinforcement learning, such as the  Cross-Entropy Method (CEM), can yield compelling results even in high-dimensional control tasks and sparse-reward environments.
 However, their sampling inefficiency prevents them from being used for real-time planning and control.

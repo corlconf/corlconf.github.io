@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Tianwei Ni (Carnegie Mellon University); Harshit Sikchi (Carnegie Mellon University)*; Yufei Wang (Carnegie Mellon University); Tejus Gupta (Carnegie Mellon University); Lisa Lee (Carnegie Mellon University); Ben Eysenbach (Carnegie Mellon University)**
 
+#### Interactive Session
+*2020-11-16, 11:10 - 11:40 PST*
+
 #### Abstract
 Imitation learning is well-suited for robotic tasks where it is difficult to directly program the behavior or specify a cost for optimal control. 
 In this work, we propose a method for learning the reward function (and the corresponding policy) to match the expert state density. 

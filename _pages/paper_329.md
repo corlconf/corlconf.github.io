@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Emmanuel Pignat (Idiap Research Institute and EPFL)*; Hakan Girgin (Idiap Research Institute); Sylvain Calinon (Idiap Research Institute)**
 
+#### Interactive Session
+*2020-11-16, 11:10 - 11:40 PST*
+
 #### Abstract
 In learning from demonstrations, many generative models of trajectories make simplifying assumptions of independence. Correctness is sacrificed in the name of tractability and speed of the learning phase. 
     The ignored dependencies, which are often the kinematic and dynamic constraints of the system, are then only restored when synthesizing the motion, which introduces possibly heavy distortions. 

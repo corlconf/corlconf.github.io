@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Vaisakh Shaj (Karlsruhe Institute Of Technology)*; Philipp Becker (Karlsruhe Institute of Technology (KIT)); Dieter Büchler (MPI for Intelligent Systems Tübingen); Harit Pandya (University of Lincoln); Niels van Duijkeren (Bosch Corporate Research); C. James  Taylor (Lancaster University); Marc Hanheide (University of Lincoln); Gerhard Neumann (KIT)**
 
+#### Interactive Session
+*2020-11-18, 11:10 - 11:40 PST*
+
 #### Abstract
 Estimating accurate forward and inverse dynamics models is a crucial component of model-based control for sophisticated robots such as robots driven by hydraulics, artificial muscles, or robots dealing with different contact situations.
 Analytic models to such processes are often unavailable or inaccurate due to complex hysteresis effects, unmodelled friction and stiction phenomena, and unknown effects during contact situations. A promising approach is to obtain spatio-temporal models in a data-driven way using recurrent neural networks, as they can overcome those issues. However, such models often do not meet accuracy demands sufficiently, degenerate in performance for the required high sampling frequencies and cannot provide uncertainty estimates.  

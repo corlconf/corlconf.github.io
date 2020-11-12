@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Bryan Chen (UC Berkeley)*; Alexander Sax (UC Berkeley); Francis Lewis (Stanford); Iro Armeni (Stanford University); Silvio Savarese (Stanford University); Amir Zamir (Swiss Federal Institute of Technology (EPFL)); Jitendra Malik (University of California at Berkeley); Lerrel Pinto (NYU/Berkeley)**
 
+#### Interactive Session
+*2020-11-16, 11:10 - 11:40 PST*
+
 #### Abstract
 Vision-based robotics often factors the control loop into separate components for perception and control. Conventional perception components usually extract hand-engineered features from the visual input that are then used by the control component in an explicit manner. In contrast, recent advances in deep RL make it possible to learn these features end-to-end during training, but the final result is often brittle, fails unexpectedly under minuscule visual shifts, and comes with a high sample complexity cost.
 

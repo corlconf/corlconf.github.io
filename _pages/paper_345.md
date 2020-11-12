@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **William Agnew (University of Washington)*; Christopher Xie (University of Washington); Aaron Walsman (University of Washington); Octavian Murad (University of Washington); Yubo Wang (University of Washington); Pedro Domingos (University of Washington); Siddhartha Srinivasa (University of Washington)**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 Learning-based 3D object reconstruction enables single- or few-shot estimation of 3D object models. For robotics,  this holds the potential to allow model-based methods to rapidly adapt to novel objects and scenes. Existing 3D reconstruction techniques optimize for visual reconstruction fidelity, typically measured by chamfer distance or voxel IOU. We find that when applied to realistic, cluttered robotics environments, these systems produce reconstructions with low physical realism, resulting in poor task performance when used for model-based control.  We propose ARM, an amodal 3D reconstruction system that introduces (1) a stability prior over object shapes, (2) a connectivity prior, and (3) a multi-channel input representation that allows for reasoning over relationships between groups of objects.  By using these priors over the physical properties of objects, our system improves reconstruction quality not just by standard visual metrics, but also performance of model-based control on a variety of robotics manipulation tasks in challenging, cluttered environments.
 

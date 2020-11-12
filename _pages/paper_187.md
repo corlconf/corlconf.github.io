@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Xingye Da (Nvidia)*; Zhaoming Xie (University of British Columbia); David Hoeller (Nvidia); Byron Boots (Nvidia); Anima Anandkumar (); Yuke Zhu (University of Texas - Austin); Buck Babich (NVIDIA); Animesh Garg (University of Toronto, Vector Institute, Nvidia)**
 
+#### Interactive Session
+*2020-11-16, 11:50 - 12:20 PST*
+
 #### Abstract
 We present a hierarchical framework that combines model-based control and reinforcement learning (RL) to synthesize robust controllers for a quadruped (the Unitree Laikago). The system consists of a high-level controller that learns to choose from a set of primitives in response to changes in the environment and a low-level controller that utilizes an established control method to robustly execute the primitives. Our framework learns a controller that can adapt to challenging environmental changes on the fly, including novel scenarios not seen during training. The learned controller is up to 85~percent more energy efficient and is more robust compared to baseline methods. We also deploy the controller on a physical robot without any randomization or adaptation scheme.
 

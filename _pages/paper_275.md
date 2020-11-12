@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Wout Boerdijk (DLR)*; Martin Sundermeyer (German Aerospace Center (DLR)); Maximilian Durner (DLR); Rudolph Triebel (German Aerospace Center (DLR))**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 Accurate object segmentation is a crucial task in the context of robotic manipulation. However, creating sufficient annotated training data for neural networks is particularly time consuming and often requires manual labeling. To this end, we propose a simple, yet robust solution for learning to segment unknown objects grasped by a robot. Specifically, we exploit motion and temporal cues in RGB video sequences. Using optical flow estimation we first learn to predict segmentation masks of our given manipulator. Then, these annotations are used in combination with motion cues to automatically distinguish between background, manipulator and unknown, grasped object. In contrast to existing systems our approach is fully self-supervised and independent of precise camera calibration, 3D models or potentially imperfect depth data. We perform a thorough comparison with alternative baselines and approaches from literature. The object masks and views are shown to be suitable training data for segmentation networks that generalize to novel environments and also allow for watertight 3D reconstruction.
 

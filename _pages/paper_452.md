@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Boshen Niu (Carnegie Mellon University); Chenxi Wang (Carnegie Mellon University); Changliu Liu (Carnegie Mellon University)***
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 Policy learning for delicate industrial insertion tasks (e.g., PC board assembly) is challenging. This paper considers two major problems: how to learn a diversified policy (instead of just one average policy) that can efficiently handle different workpieces with minimum amount of training data, and how to handle defects of workpieces during insertion. To address the problems, we propose tolerance-guided policy learning. 
     To encourage transferability of the learned policy to different workpieces, we add a task embedding to the policy's input space using the insertion tolerance. Then we train the policy using generative adversarial imitation learning with reward shaping (RS-GAIL) on a variety of representative situations. 

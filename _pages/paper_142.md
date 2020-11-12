@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Peter Anderson (Google)*; Ayush Shrivastava (Georgia Institute of Technology); Joanne Truong (Georgia Institute of Technology); Arjun Majumdar (Georgia Tech); Devi Parikh (Georgia Tech & Facebook AI Research); Dhruv Batra (Georgia Tech & Facebook AI Research); Stefan Lee (Oregon State University)**
 
+#### Interactive Session
+*2020-11-18, 11:10 - 11:40 PST*
+
 #### Abstract
 We study the challenging problem of releasing a robot in a previously unseen environment, and having it follow unconstrained natural language navigation instructions. Recent work on the task of Vision-and-Language Navigation (VLN) has achieved significant progress in simulation. To assess the implications of this work for robotics, we transfer a VLN agent trained in simulation to a physical robot. To bridge the gap between the high-level discrete action space learned by the VLN agent, and the robot’s low-level continuous action space, we propose a subgoal model to identify nearby waypoints, and use domain randomization to mitigate visual domain differences. For accurate sim and real comparisons in parallel environments, we annotate a 325m2 office space with 1.3km of navigation instructions, and create a digitized replica in simulation. We find that sim-to-real transfer to an environment not seen in training is successful if an occupancy map and navigation graph can be collected and annotated in advance (success rate of 46.8% vs. 55.9% in sim), but much more challenging in the hardest setting with no prior mapping at all (success rate of 22.5%).
 

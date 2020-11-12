@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Giovanni Franzese (Delft University of Technology)*; Carlos Celemin (TU Delft); Jens Kober (TU Delft)**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 In Learning from Demonstrations, ambiguities can lead to bad generalization of the learned policy. This paper proposes a framework called Learning Interactively to Resolve Ambiguity (LIRA), that recognizes ambiguous situations, in which more than one action have similar probabilities, avoids a random action selection, and uses the human feedback for solving them. The aim is to improve the user experience, the learning performance and safety. LIRA is tested in the selection of the right goal of Movement Primitives (MP) out of a candidate list if multiple contradictory generalizations of the demonstration(s) are possible. The framework is validated on different pick and place operations on a Emika-Franka Robot. A user study showed a significant reduction on the task load of the user, compared to a system that does not allow interactive resolution of ambiguities.
 

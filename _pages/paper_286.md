@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Bhairav Mehta (MIT)*; Ankur Handa (NVIDIA); Dieter Fox (NVIDIA); Fabio Ramos (NVIDIA, The University of Sydney)**
 
+#### Interactive Session
+*2020-11-18, 11:10 - 11:40 PST*
+
 #### Abstract
 Simulators are a critical component of modern robotics research. Strategies for both perception and decision making can be studied in simulation first, before deployed to real world systems, saving on time and costs. Despite significant progress on the development of sim-to-real algorithms, the analysis of  different methods is still conducted in an ad-hoc manner without a consistent set of tests and metrics for comparison. This paper intends to fill this gap and proposes a set of benchmarks and a framework for the study of various algorithms aimed to transfer models and policies learnt in simulation to the real world. We conduct experiments on a wide range of well known simulated environments to characterise and offer insights into the performance of different algorithms. Our analysis can be useful for practitioners working in this area and can help make informed choices about the behaviour and main properties of sim-to-real algorithms. 
 

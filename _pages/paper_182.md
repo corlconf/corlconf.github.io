@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Bruno Ferreira de Brito (Delft University of Technology)*; Hai Zhu (Delft University of Technology); Wei Pan (TUDelft); Javier Alonso-Mora (Delft University of Technology)**
 
+#### Interactive Session
+*2020-11-16, 12:30 - 13:00 PST*
+
 #### Abstract
 	Prediction of human motions is key for safe navigation of autonomous robots among humans. In cluttered environments, several motion hypotheses may exist for a pedestrian, due to its interactions with the environment and other pedestrians.
 	Previous works for estimating multiple motion hypotheses require a large number of samples which limits their applicability in real-time motion planning. In this paper, we present a variational learning approach for interaction-aware and multi-modal trajectory prediction based on deep generative neural networks. 

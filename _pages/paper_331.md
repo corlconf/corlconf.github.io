@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Jarrett Holtz (Univ of Texas)*; Arjun Guha (Northeastern University); Joydeep Biswas (University of Texas at Austin)**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 Action selection policies (ASPs), used to compose low-level robot
 skills into complex high-level tasks are commonly represented as neural networks

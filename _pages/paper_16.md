@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Jiankai Sun (CUHK)*; Hao Sun (CUHK); Tian Han (Stevens Institute of Technology); Bolei Zhou (CUHK)**
 
+#### Interactive Session
+*2020-11-18, 11:50 - 12:20 PST*
+
 #### Abstract
 As a promising topic in cognitive robotics, neuro-symbolic modeling integrates symbolic reasoning and neural representation altogether. However, previous neuro-symbolic models usually wire their structures and the connections manually, making the underlying parameters sub-optimal. In this work, we propose the Neuro-Symbolic Program Search (NSPS) to improve the autonomous driving system design. NSPS is a novel automated search method that synthesizes the Neuro-Symbolic Programs. It can produce robust and expressive Neuro-Symbolic Programs and automatically tune the hyper-parameters. We validate NSPS in the CARLA driving simulation environment. The resulting Neuro-Symbolic Decision Programs successfully handle multiple traffic scenarios. Compared with previous neural-network-based driving and rule-based methods, our neuro-symbolic driving pipeline achieves more stable and safer behaviors in complex driving scenarios while maintaining an interpretable symbolic decision-making process.
 

@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Yutao Han (Cornell University)*; Jacopo Banfi (Cornell University); Mark Campbell (Cornell University)**
 
+#### Interactive Session
+*2020-11-16, 11:50 - 12:20 PST*
+
 #### Abstract
 This paper presents a novel framework for planning paths in maps containing unknown spaces, such as from occlusions. Our approach takes as input a semantically-annotated point cloud, and leverages an image inpainting neural network to generate a reasonable model of unknown space as free or occupied. Our validation campaign shows that it is possible to greatly increase the performance of standard pathfinding algorithms which adopt the general optimistic assumption of treating unknown space as free.
 

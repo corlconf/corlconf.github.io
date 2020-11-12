@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Jialiang Zhao (Carnegie Mellon University)*; Daniel Troniak (Carnegie Mellon University); Oliver Kroemer (Carnegie Mellon University)**
 
+#### Interactive Session
+*2020-11-18, 11:10 - 11:40 PST*
+
 #### Abstract
 Robust task-oriented grasp planning is vital for autonomous robotic precision assembly tasks. Knowledge of the objects' geometry and preconditions of the target task should be incorporated when determining the proper grasp to execute. However, several factors contribute to the challenges of realizing these grasps such as noise when controlling the robot, unknown object properties, and difficulties modeling complex object-object interactions. We propose a method that decomposes this problem and optimizes for grasp robustness, precision, and task performance by learning three cascaded networks. We evaluate our method in simulation on three common assembly tasks: inserting gears onto pegs, aligning brackets into corners, and inserting shapes into slots. Our policies are trained using a curriculum based on large-scale self-supervised grasp simulations with procedurally generated objects. Finally, we evaluate the performance of the first two tasks with a real robot where our method achieves 4.28mm error for bracket insertion and 1.44mm error for gear insertion.
 

@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Yu Xiang (NVIDIA)*; Christopher Xie (University of Washington); Arsalan Mousavian (NVIDIA); Dieter Fox (NVIDIA)**
 
+#### Interactive Session
+*2020-11-18, 11:10 - 11:40 PST*
+
 #### Abstract
 Segmenting unseen objects in cluttered scenes is an important skill that robots need to acquire in order to perform tasks in new environments. In this work, we propose a new method for unseen object instance segmentation by learning RGB-D feature embeddings from synthetic data. A metric learning loss function is utilized to learn to produce pixel-wise feature embeddings such that pixels from the same object are close to each other and pixels from different objects are separated in the embedding space. With the learned feature embeddings, a mean shift clustering algorithm can be applied to discover and segment unseen objects. We further improve the segmentation accuracy with a new two-stage clustering algorithm. Our method demonstrates that non-photorealistic synthetic RGB and depth images can be used to learn feature embeddings that transfer well to real-world images for unseen object instance segmentation.
 

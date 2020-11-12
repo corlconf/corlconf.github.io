@@ -19,6 +19,9 @@ youtubeId:
 #### Authors
 **Prasoon Goyal (The University of Texas at Austin)*; Scott Niekum (UT Austin); Raymond Mooney (Univ. of Texas at Austin)**
 
+#### Interactive Session
+*2020-11-17, 12:30 - 13:00 PST*
+
 #### Abstract
 Reinforcement learning (RL), particularly in sparse reward settings, often requires prohibitively large numbers of interactions with the environment, thereby limiting its applicability to complex problems. To address this, several prior approaches have used natural language to guide the agent's exploration. However, these approaches typically operate on structured representations of the environment, and/or assume some structure in the natural language commands. In this work, we propose a model that directly maps pixels to rewards, given a free-form natural language description of the task, which can then be used for policy learning. Our experiments on the Meta-World robot manipulation domain show that  language-based rewards significantly improves the sample efficiency of policy learning, both in sparse and dense reward settings. 
 
