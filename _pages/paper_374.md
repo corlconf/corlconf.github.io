@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://zhouxian.github.io/3d-oes/
 youtubeId: 
+pdf: https://drive.google.com/file/d/1XLe6cs3Xsca6g16apW80g8Hor272Yf08/view
 ---
 
 # 3D-OES: Viewpoint-Invariant Object-Factorized Environment Simulators
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1XLe6cs3Xsca6g16apW80g8Hor272Yf08/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1XLe6cs3Xsca6g16apW80g8Hor272Yf08/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://zhouxian.github.io/3d-oes/" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Hsiao-Yu Tung (Carnegie Mellon University)*; Zhou Xian (Carnegie Mellon University); Mihir Prabhudesai (Carnegie Mellon University); Shamit Lal (CMU); Katerina Fragkiadaki (Carnegie Mellon University)**
@@ -30,3 +30,4 @@ We propose an action-conditioned dynamics model that predicts scene changes caus
 #### Reviews
 
 #### Rebuttal
+

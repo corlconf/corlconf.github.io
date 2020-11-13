@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/Pearl-UTexas/EMPATHIC
 youtubeId: 
+pdf: https://drive.google.com/file/d/1oSSQbj9Oclzek4A5CrW4fWffQLFdZPeC/view
 ---
 
 # The EMPATHIC Framework for Task Learning from Implicit Human Feedback
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1oSSQbj9Oclzek4A5CrW4fWffQLFdZPeC/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1oSSQbj9Oclzek4A5CrW4fWffQLFdZPeC/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/Pearl-UTexas/EMPATHIC" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yuchen Cui (University of Texas at Austin)*; Qiping Zhang (The University of Texas at Austin); Brad Knox (Bosch); Alessandro Allievi (Bosch); Peter Stone (University of Texas at Austin and Sony AI); Scott Niekum (UT Austin)**
@@ -30,3 +30,4 @@ Reactions such as gestures, facial expressions, and vocalizations are an abundan
 #### Reviews
 
 #### Rebuttal
+

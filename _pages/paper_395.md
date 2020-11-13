@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/castacks/tartanvo
 youtubeId: 
+pdf: https://drive.google.com/file/d/1W7Y0yPGBICpADbm79xQ1-PL2JDBbkTdu/view
 ---
 
 # TartanVO: A Generalizable Learning-based VO
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1W7Y0yPGBICpADbm79xQ1-PL2JDBbkTdu/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1W7Y0yPGBICpADbm79xQ1-PL2JDBbkTdu/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/castacks/tartanvo" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Wenshan Wang (CMU)*; Yaoyu Hu (Carnegie Mellon University); Sebastian Scherer (Carnegie Mellon University)**
@@ -30,3 +30,4 @@ We present the first learning-based visual odometry (VO) model, which generalize
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/czlwang/grounded_LTL_parser
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Y2514MAvBiizdsIFLAX24WVUvCDXGn8b/view
 ---
 
 # Learning a natural-language to LTL executable semantic parser for grounded robotics
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Y2514MAvBiizdsIFLAX24WVUvCDXGn8b/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Y2514MAvBiizdsIFLAX24WVUvCDXGn8b/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/czlwang/grounded_LTL_parser" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Christopher Wang (MIT)*; Candace Ross (Massachusetts Institute of Technology); Yen-Ling Kuo (MIT); Boris Katz (MIT); Andrei Barbu (MIT)**
@@ -30,3 +30,4 @@ Children acquire their native language with apparent ease by observing how langu
 #### Reviews
 
 #### Rebuttal
+

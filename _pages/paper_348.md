@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/adithyamurali/TaskGrasp
 youtubeId: 
+pdf: https://drive.google.com/file/d/1XsG_zlvTPY878TNVLBn2iR1EOhse4SmV/view
 ---
 
 # Same Object, Different Grasps: Data and Semantic Knowledge for Task-Oriented Grasping
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1XsG_zlvTPY878TNVLBn2iR1EOhse4SmV/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1XsG_zlvTPY878TNVLBn2iR1EOhse4SmV/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/adithyamurali/TaskGrasp" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Adithyavairavan Murali (Carnegie Mellon University Robotics Institute)*; Weiyu Liu (Georgia Institute of Technology); Kenneth Marino (Carnegie Mellon University); Sonia Chernova (Georgia Institute of Technology	); Abhinav Gupta (CMU/FAIR)**
@@ -30,3 +30,4 @@ Despite the enormous progress and generalization in robotic grasping in recent y
 #### Reviews
 
 #### Rebuttal
+

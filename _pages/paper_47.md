@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1yQtB0x7buOguG78THL2WmFr3Twk54zdF/view
 ---
 
 # GDN: A Coarse-To-Fine (C2F) Representation for End-To-End 6-DoF Grasp Detection
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1yQtB0x7buOguG78THL2WmFr3Twk54zdF/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1yQtB0x7buOguG78THL2WmFr3Twk54zdF/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Kuang-Yu Jeng (National Taiwan University)*; Yueh-Cheng Liu (National Taiwan University); Zhe Yu Liu (National Taiwan University); Jen-Wei Wang (National Taiwan University); Ya-Liang Chang (National Taiwan University); Hung-Ting Su (National Taiwan University); Winston Hsu (National Taiwan University)**
@@ -30,3 +30,4 @@ We proposed an end-to-end grasp detection network,  Grasp Detection Network (GDN
 #### Reviews
 
 #### Rebuttal
+

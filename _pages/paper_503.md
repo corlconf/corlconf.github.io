@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1tSIvNk-UG1MdH0pPQvsaR2mIqzzG0tAe/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/17i5wYOoZrgbpFGlHaQmHhElKp_UfolwQ/view
 ---
 
 # Learning Predictive Models for Ergonomic Control of Prosthetic Devices
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/17i5wYOoZrgbpFGlHaQmHhElKp_UfolwQ/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/17i5wYOoZrgbpFGlHaQmHhElKp_UfolwQ/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1tSIvNk-UG1MdH0pPQvsaR2mIqzzG0tAe/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **GEOFFEY CLARK (Arizona State University)*; Joseph Campbell (Arizona State University); Heni Ben Amor (Arizona State University)**
@@ -30,3 +30,4 @@ We present Model-Predictive Interaction Primitives - a robot learning framework 
 #### Reviews
 
 #### Rebuttal
+

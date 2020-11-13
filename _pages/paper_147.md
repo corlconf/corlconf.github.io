@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/sjauhri/Interactive-Learning-in-State-space
 youtubeId: 
+pdf: https://drive.google.com/file/d/1fRG-p4BaiGSoDw-Y0r6Fn80MXCV1TNW0/view
 ---
 
 # Interactive Imitation Learning in State-Space
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1fRG-p4BaiGSoDw-Y0r6Fn80MXCV1TNW0/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1fRG-p4BaiGSoDw-Y0r6Fn80MXCV1TNW0/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/sjauhri/Interactive-Learning-in-State-space" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Snehal Jauhri (TU Delft)*; Carlos Celemin (TU Delft); Jens Kober (TU Delft)**
@@ -30,3 +30,4 @@ Imitation Learning techniques enable programming the behaviour of agents through
 #### Reviews
 
 #### Rebuttal
+

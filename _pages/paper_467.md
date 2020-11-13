@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1rNYN2i-yDc0skeUjafvAv2OIYPnSvgWC/view
 ---
 
 # Never Stop Learning: The Effectiveness of Fine-Tuning in Robotic Reinforcement Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1rNYN2i-yDc0skeUjafvAv2OIYPnSvgWC/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1rNYN2i-yDc0skeUjafvAv2OIYPnSvgWC/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Ryan Julian (University of Southern California)*; Benjamin Swanson (Google); Gaurav Sukhatme (University of Southern California); Sergey Levine (Google); Chelsea Finn (Google Brain); Karol Hausman (Google Brain)**
@@ -30,3 +30,4 @@ One of the great promises of robot learning systems is that they will be able to
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/ethz-asl/Learn-to-Calibrate
 youtubeId: 
+pdf: https://drive.google.com/file/d/1eDpvtVEdq0ENTKomvlVP7E55LnSU9FQD/view
 ---
 
 # Learning Trajectories for Visual-Inertial System Calibration via Model-based Heuristic Deep Reinforcement Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1eDpvtVEdq0ENTKomvlVP7E55LnSU9FQD/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1eDpvtVEdq0ENTKomvlVP7E55LnSU9FQD/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/ethz-asl/Learn-to-Calibrate" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Le Chen (ETH Zurich)*; Yunke Ao (ETH Zurich); Florian Tschopp (ETH Zurich); Andrei Cramariuc (ETH Zurich); Michel Breyer (ETH); Jen Jen Chung (ETH Zurich); Roland Siegwart (ETH Zürich, Autonomous Systems Lab); Cesar Cadena (ETH Zurich)**
@@ -30,3 +30,4 @@ Visual-inertial systems rely on precise calibrations of both camera intrinsics a
 #### Reviews
 
 #### Rebuttal
+

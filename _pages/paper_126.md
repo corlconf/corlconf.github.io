@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/wilson1yan/contrastive-forward-model
 youtubeId: 
+pdf: https://drive.google.com/file/d/1P2J7zA6cglYivLm21FAudBj9aeOonMGj/view
 ---
 
 # Learning Predictive Representations for Deformable Objects Using Contrastive Estimation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1P2J7zA6cglYivLm21FAudBj9aeOonMGj/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1P2J7zA6cglYivLm21FAudBj9aeOonMGj/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/wilson1yan/contrastive-forward-model" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Wilson Yan (UC Berkeley)*; Ashwin Vangipuram (UC Berkeley); Pieter Abbeel (UC Berkeley); Lerrel Pinto ()**
@@ -30,3 +30,4 @@ Using visual model-based learning for deformable object manipulation is challeng
 #### Reviews
 
 #### Rebuttal
+

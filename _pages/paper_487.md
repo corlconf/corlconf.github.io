@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1YJqIyvliAnBM3BYiOcewm8WdF1UN2Lcm/view
 ---
 
 # Attentional Separation-and-Aggregation Network for Self-supervised Depth-Pose Learning in Dynamic Scenes
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1YJqIyvliAnBM3BYiOcewm8WdF1UN2Lcm/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1YJqIyvliAnBM3BYiOcewm8WdF1UN2Lcm/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Feng Gao (Tsinghua University)*; Jincheng Yu (Tsinghua University); Hao Shen (Meituan); Yu Wang (Tsinghua University); Huazhong Yang (Tsinghua University)**
@@ -30,3 +30,4 @@ Learning depth and ego-motion from unlabeled videos via self-supervision from ep
 #### Reviews
 
 #### Rebuttal
+

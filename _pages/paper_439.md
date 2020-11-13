@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://youtu.be/hE-Ew59GRPQ
 youtubeId: 
+pdf: https://drive.google.com/file/d/1t8FFYXhmcARZh1x6HhCe5fSipnUxDZkG/view
 ---
 
 # Deep Reactive Planning in Dynamic Environments
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1t8FFYXhmcARZh1x6HhCe5fSipnUxDZkG/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1t8FFYXhmcARZh1x6HhCe5fSipnUxDZkG/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://youtu.be/hE-Ew59GRPQ" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Kei Ota (Mitsubishi Electric Corporation)*; Devesh Jha (MERL); Tadashi Onishi (Mitsubishi Electric); Asako Kanezaki (Tokyo Institute of Technology); Yusuke Yoshiyasu (AIST); Yoko Sasaki (National Institute of Advanced Industrial Science and Technology	); Toshisada Mariyama (Mitsubishi Electric); Daniel Nikovski ()**
@@ -30,3 +30,4 @@ The main novelty of the proposed approach is that it allows a robot to learn an 
 #### Reviews
 
 #### Rebuttal
+

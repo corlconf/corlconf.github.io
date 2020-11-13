@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://sites.google.com/view/model-based-irl-from-vision
 youtubeId: 
+pdf: https://drive.google.com/file/d/1_uu4RJbAdYU_4Is_gSVTCO8KA77Mwii1/view
 ---
 
 # Model-Based Inverse Reinforcement Learning from Visual Demonstrations
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1_uu4RJbAdYU_4Is_gSVTCO8KA77Mwii1/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1_uu4RJbAdYU_4Is_gSVTCO8KA77Mwii1/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://sites.google.com/view/model-based-irl-from-vision" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Neha Das (Facebook AI Research)*; Sarah Bechtle (Max Planck Institute for Intelligent Systems); Todor Davchev (University of Edinburgh); Dinesh Jayaraman (University of Pennsylvania); Akshara Rai (Facebook); Franziska Meier (Facebook AI Research)**
@@ -30,3 +30,4 @@ Scaling model-based inverse reinforcement learning (IRL) to real robotic manipul
 #### Reviews
 
 #### Rebuttal
+

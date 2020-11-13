@@ -9,12 +9,12 @@ parent: Tuesday
 supp: https://drive.google.com/file/d/1bdDAF14pdRTzm7yD68V1s8qgOIk2Gstu/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1UkQRgFmbaesRVMgw7LSZBWyau2c8HBmk/view
 ---
 
 # Incremental learning of EMG-based control commands using Gaussian Processes
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1UkQRgFmbaesRVMgw7LSZBWyau2c8HBmk/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1UkQRgFmbaesRVMgw7LSZBWyau2c8HBmk/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1bdDAF14pdRTzm7yD68V1s8qgOIk2Gstu/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Felix Schiel (DLR German Aerospace Center); Annette Hagengruber (DLR German Aerospace Center)*; Jörn Vogel (DLR German Aerospace Center); Rudolph Triebel (German Aerospace Center (DLR))**
@@ -31,3 +31,4 @@ Myoelectric control is the process of controlling a prosthesis or an assistive r
 #### Reviews
 
 #### Rebuttal
+

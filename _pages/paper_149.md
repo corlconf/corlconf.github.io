@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://sites.google.com/view/keypointsintothefuture/home
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Yvhlpt1QqtCZ1OXulfPmsGbJyKdw48lh/view
 ---
 
 # Keypoints into the Future: Self-Supervised Correspondence in Model-Based Reinforcement Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Yvhlpt1QqtCZ1OXulfPmsGbJyKdw48lh/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Yvhlpt1QqtCZ1OXulfPmsGbJyKdw48lh/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://sites.google.com/view/keypointsintothefuture/home" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Lucas Manuelli (Massachusetts Institute of Technology)*; Yunzhu Li (MIT); Pete Florence (Google); Russ Tedrake (MIT)**
@@ -30,3 +30,4 @@ Predictive models have been at the core of many robotic systems, from quadrotors
 #### Reviews
 
 #### Rebuttal
+

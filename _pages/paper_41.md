@@ -9,12 +9,12 @@ parent: Wednesday
 supp: https://drive.google.com/file/d/1spi8c-deHjEnpxERxb7fr9rXvcw6-7at/view
 code: https://github.com/columbia-robovision/fit2form
 youtubeId: 
+pdf: https://drive.google.com/file/d/1o0xq3cFVR65JSCayZSA-DkWg_VtJBVtB/view
 ---
 
 # Fit2Form: 3D Generative Model for Robot Gripper Form Design
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1o0xq3cFVR65JSCayZSA-DkWg_VtJBVtB/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1o0xq3cFVR65JSCayZSA-DkWg_VtJBVtB/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1spi8c-deHjEnpxERxb7fr9rXvcw6-7at/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/columbia-robovision/fit2form" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Huy Ha (Columbia University); Shubham Agrawal (Columbia University); Shuran Song (Columbia University)***
@@ -30,3 +30,4 @@ The 3D shape of a robot's end-effector plays a critical role in determining it's
 #### Reviews
 
 #### Rebuttal
+

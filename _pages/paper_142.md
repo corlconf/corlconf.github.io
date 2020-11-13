@@ -9,12 +9,12 @@ parent: Wednesday
 supp: https://drive.google.com/file/d/1tiRGrTKGi_t5jGkHbnQ5wVjucp35HsTT/view
 code: https://github.com/batra-mlp-lab/vln-sim2real
 youtubeId: 
+pdf: https://drive.google.com/file/d/1WsJtHv9ysWWwXSS3JR8rbv8WhDC8R9Ml/view
 ---
 
 # Sim-to-Real Transfer for Vision-and-Language Navigation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1WsJtHv9ysWWwXSS3JR8rbv8WhDC8R9Ml/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1WsJtHv9ysWWwXSS3JR8rbv8WhDC8R9Ml/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1tiRGrTKGi_t5jGkHbnQ5wVjucp35HsTT/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/batra-mlp-lab/vln-sim2real" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Peter Anderson (Google)*; Ayush Shrivastava (Georgia Institute of Technology); Joanne Truong (Georgia Institute of Technology); Arjun Majumdar (Georgia Tech); Devi Parikh (Georgia Tech & Facebook AI Research); Dhruv Batra (Georgia Tech & Facebook AI Research); Stefan Lee (Oregon State University)**
@@ -30,3 +30,4 @@ We study the challenging problem of releasing a robot in a previously unseen env
 #### Reviews
 
 #### Rebuttal
+

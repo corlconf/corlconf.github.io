@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1RlgMCv_ZFLORLHuTJ49OGPLNE5d3Lkxi/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1KjsTtEKp5Sb80XtsgISc3C2s955Zwljd/view
 ---
 
 # Learning a Decision Module by Imitating Driver’s Control Behaviors
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1KjsTtEKp5Sb80XtsgISc3C2s955Zwljd/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1KjsTtEKp5Sb80XtsgISc3C2s955Zwljd/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1RlgMCv_ZFLORLHuTJ49OGPLNE5d3Lkxi/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Junning Huang (SenseTime Research); Sirui Xie (UCLA); Jiankai Sun (CUHK)*; Qiurui Ma (Hong Kong University of Science and Technology); Chunxiao Liu (SenseTime Research); Dahua Lin (The Chinese University of Hong Kong); Bolei Zhou (CUHK)**
@@ -30,3 +30,4 @@ Autonomous driving systems have a pipeline of perception, decision, planning, an
 #### Reviews
 
 #### Rebuttal
+

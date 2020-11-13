@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1ppFXsP2AmmGSp5qenQQOnufddhAfcDwo/view
 ---
 
 # TriFinger: An Open-Source Robot for Learning Dexterity
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1ppFXsP2AmmGSp5qenQQOnufddhAfcDwo/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1ppFXsP2AmmGSp5qenQQOnufddhAfcDwo/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Manuel Wuthrich (Max Planck Institute for Intelligent Systems)*; Felix Widmaier (MPI for Intelligent Systems, Tübingen); Felix Grimminger (	Max Planck Institute for Intelligent Systems); Shruti Joshi (IIT Kanpur); Vaibhav Agrawal (Max Planck Institute for Intelligent Systems	); Bilal Hammoud (Max Planck Institute for Intelligent Systems); Majid Khadiv (Max Planck Institute for Intelligent Systems	); Miroslav Bogdanovic (Max Planck Institute for Intelligent Systems); Vincent Berenz (Max Planck Institute for Intelligent Systems); Julian Viereck (NYU); Maximilien Naveau (MPI); Ludovic Righetti (New York University); Bernhard Schölkopf (MPI for Intelligent Systems, Tübingen); Stefan Bauer (MPI IS)**
@@ -30,3 +30,4 @@ Dexterous object manipulation is still an open problem in robotics, despite the 
 #### Reviews
 
 #### Rebuttal
+

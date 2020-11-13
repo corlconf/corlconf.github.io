@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1hOcTtUk4PpKR_cwGzQ791rl82y9oNEju/view
 code: https://github.com/makarandtapaswi/Real2Sim_CoRL2020
 youtubeId: 
+pdf: https://drive.google.com/file/d/1DuHan9oZXznDnXiCP7J6ogWn8FMAAkIJ/view
 ---
 
 # Learning Object Manipulation Skills via Approximate State Estimation from Real Videos
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1DuHan9oZXznDnXiCP7J6ogWn8FMAAkIJ/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1DuHan9oZXznDnXiCP7J6ogWn8FMAAkIJ/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1hOcTtUk4PpKR_cwGzQ791rl82y9oNEju/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/makarandtapaswi/Real2Sim_CoRL2020" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Vladimír Petrík (Czech Technical University); Makarand Tapaswi (INRIA)*; Ivan Laptev (INRIA Paris); Josef Sivic (Inria and Czech Technical University)**
@@ -30,3 +30,4 @@ Humans are adept at learning new tasks by watching a few instructional videos. O
 #### Reviews
 
 #### Rebuttal
+

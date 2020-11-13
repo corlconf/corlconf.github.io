@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/12k_ABxmEE62_A6aXsL_ZS1ESjeNtK0Qr/view
 ---
 
 # Learning to Improve Multi-Robot Hallway Navigation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/12k_ABxmEE62_A6aXsL_ZS1ESjeNtK0Qr/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/12k_ABxmEE62_A6aXsL_ZS1ESjeNtK0Qr/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jin Soo Park (The University of Texas at Austin)*; Brian Tsang (University of Texas at Austin); Harel Yedidsion (UT Austin); Garrett Warnell (US Army Research Lab); Daehyun Kyoung (The University of Texas at Austin); Peter Stone (University of Texas at Austin and Sony AI)**
@@ -30,3 +30,4 @@ As multi-robot applications become more prevalent, it becomes necessary to devel
 #### Reviews
 
 #### Rebuttal
+

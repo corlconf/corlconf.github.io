@@ -9,12 +9,12 @@ parent: Tuesday
 supp: https://drive.google.com/file/d/1Q8iG4j1uvtLxGsOOdbll_DeVatowJNwF/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1OJh5Ngi5c_-CQzqDcz5SjGVuK1wzO1cc/view
 ---
 
 # DeepMPCVS: Deep Model Predictive Control for Visual Servoing
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1OJh5Ngi5c_-CQzqDcz5SjGVuK1wzO1cc/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1OJh5Ngi5c_-CQzqDcz5SjGVuK1wzO1cc/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1Q8iG4j1uvtLxGsOOdbll_DeVatowJNwF/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Pushkal Katara (Robotics Research Center, IIITH)*; Harish Y V S (IIIT HYDERABAD); Harit Pandya (University of Lincoln); Abhinav Gupta (International Institute of Information Technology (IIIT), Hyderabad); AadilMehdi Sanchawala (International Institute of Information Technology, Hyderabad); Gourav Kumar (TCS Innovation labs Kolkata); Brojeshwar Bhowmick (Tata Consultancy Services); Madhava Krishna (IIIT-Hyderabad)**
@@ -30,3 +30,4 @@ The simplicity of the visual servoing approach makes it an attractive option for
 #### Reviews
 
 #### Rebuttal
+

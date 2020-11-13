@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1sks2le3ziJRRpEL3-cWzP6vKTaaie-Jn/view
 code: https://github.com/alexsax/robust-policies-via-midlevel-vision
 youtubeId: 
+pdf: https://drive.google.com/file/d/1C9q14pUZPMUxfntx9Kg1xoiL6nRr332b/view
 ---
 
 # Robust Policies via Mid-Level Visual Representations: An Experimental Study in Manipulation and Navigation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1C9q14pUZPMUxfntx9Kg1xoiL6nRr332b/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1C9q14pUZPMUxfntx9Kg1xoiL6nRr332b/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1sks2le3ziJRRpEL3-cWzP6vKTaaie-Jn/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/alexsax/robust-policies-via-midlevel-vision" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Bryan Chen (UC Berkeley)*; Alexander Sax (UC Berkeley); Francis Lewis (Stanford); Iro Armeni (Stanford University); Silvio Savarese (Stanford University); Amir Zamir (Swiss Federal Institute of Technology (EPFL)); Jitendra Malik (University of California at Berkeley); Lerrel Pinto (NYU/Berkeley)**
@@ -32,3 +32,4 @@ In this work, we study the effects of using mid-level visual representations asy
 #### Reviews
 
 #### Rebuttal
+

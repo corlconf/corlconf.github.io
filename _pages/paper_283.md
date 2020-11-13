@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1leA8uaQs29_XK_wDZWtW3wPLpkDumY4H/view
 ---
 
 # Learning Interactively to Resolve Ambiguity in Reference Frame Selection
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1leA8uaQs29_XK_wDZWtW3wPLpkDumY4H/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1leA8uaQs29_XK_wDZWtW3wPLpkDumY4H/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Giovanni Franzese (Delft University of Technology)*; Carlos Celemin (TU Delft); Jens Kober (TU Delft)**
@@ -30,3 +30,4 @@ In Learning from Demonstrations, ambiguities can lead to bad generalization of t
 #### Reviews
 
 #### Rebuttal
+

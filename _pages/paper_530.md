@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/jessychen1016/DPCN
 youtubeId: 
+pdf: https://drive.google.com/file/d/1SmAayWXB2J5A2AkgwNB-yyejxAjG-6HH/view
 ---
 
 # Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1SmAayWXB2J5A2AkgwNB-yyejxAjG-6HH/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1SmAayWXB2J5A2AkgwNB-yyejxAjG-6HH/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/jessychen1016/DPCN" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Zexi Chen (Zhejiang University); Xuecheng Xu (Zhejiang University); Yue Wang (Zhejiang University)*; Rong Xiong (Zhejiang University)**
@@ -30,3 +30,4 @@ The crucial step for localization is to match the current observation to the map
 #### Reviews
 
 #### Rebuttal
+

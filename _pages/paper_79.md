@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1SSksotROmwgiFoYWsb1XE4IHdu4aEOhv/view
 ---
 
 # Exploratory Grasping: Asymptotically Optimal Algorithms for Grasping Challenging Polyhedral Objects
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1SSksotROmwgiFoYWsb1XE4IHdu4aEOhv/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1SSksotROmwgiFoYWsb1XE4IHdu4aEOhv/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Michael Danielczuk (UC Berkeley); Ashwin Balakrishna (UC Berkeley)*; Daniel Brown (University of Texas at Austin); Ken Goldberg (UC Berkeley)**
@@ -30,3 +30,4 @@ There has been significant recent work on data-driven algorithms for learning ge
 #### Reviews
 
 #### Rebuttal
+

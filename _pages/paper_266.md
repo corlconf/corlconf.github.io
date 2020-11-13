@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1CCtpzepy4UJcHWnRmOhLUrJs6mPu8YW4/view
 ---
 
 # Learning to Communicate and Correct Pose Errors
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1CCtpzepy4UJcHWnRmOhLUrJs6mPu8YW4/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1CCtpzepy4UJcHWnRmOhLUrJs6mPu8YW4/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Nicholas Vadivelu (Uber ATG)*; Mengye Ren (Uber ATG, University of Toronto); James Tu (Uber ATG); Jingkang Wang (Uber ATG, University of Toronto); Raquel Urtasun (Uber ATG)**
@@ -30,3 +30,4 @@ Learned communication makes multi-agent systems more effective by aggregating di
 #### Reviews
 
 #### Rebuttal
+

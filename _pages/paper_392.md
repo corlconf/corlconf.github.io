@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/ethz-asl/multipoint
 youtubeId: 
+pdf: https://drive.google.com/file/d/1ZLUrgdCfsXLhyW2RPgDb4ijzE8AwAfMk/view
 ---
 
 # MultiPoint: Cross-spectral registration of thermal and optical aerial imagery
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1ZLUrgdCfsXLhyW2RPgDb4ijzE8AwAfMk/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1ZLUrgdCfsXLhyW2RPgDb4ijzE8AwAfMk/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/ethz-asl/multipoint" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Florian Achermann (ETH Zurich)*; Andrey Kolobov (Microsoft); Debadeepta Dey (Microsoft); Timo Hinzmann (ETH Zürich); Jen Jen Chung (ETH Zurich); Roland Siegwart (ETH Zürich, Autonomous Systems Lab); Nicholas Lawrance (ETH Zürich)**
@@ -32,3 +32,4 @@ We show that MultiPoint outperforms existing techniques for feature-based image 
 #### Reviews
 
 #### Rebuttal
+

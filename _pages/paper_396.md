@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1IdF0CHrFuBWYrTAg1snHQxSi9ek9bECd/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1VhGffWmJq_XX28imCZKOZTEOTVmFX8U1/view
 ---
 
 # Soft Multicopter Control Using Neural Dynamics Identification
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1VhGffWmJq_XX28imCZKOZTEOTVmFX8U1/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1VhGffWmJq_XX28imCZKOZTEOTVmFX8U1/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1IdF0CHrFuBWYrTAg1snHQxSi9ek9bECd/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yitong Deng (Dartmouth College)*; Yaorui Zhang (Dartmouth College); Xingzhe He (University of British Columbia); Shuqi Yang (Dartmouth College); Yunjin Tong (Dartmouth College); Michael Zhang (Dartmouth College); Daniel DiPietro (Dartmouth College); Bo Zhu (Dartmouth College)**
@@ -30,3 +30,4 @@ We propose a data-driven method to automatically generate feedback controllers f
 #### Reviews
 
 #### Rebuttal
+

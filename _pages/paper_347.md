@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/sundw2014/C3M
 youtubeId: 
+pdf: https://drive.google.com/file/d/1ZBZsdjKi6fJNjj5aBy5VzDndZ5jd2LjL/view
 ---
 
 # Learning Certified Control Using Contraction Metric
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1ZBZsdjKi6fJNjj5aBy5VzDndZ5jd2LjL/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1ZBZsdjKi6fJNjj5aBy5VzDndZ5jd2LjL/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/sundw2014/C3M" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Dawei Sun (University of Illinois Urbana-Champaign)*; Susmit Jha (SRI International); Chuchu Fan (MIT)**
@@ -30,3 +30,4 @@ In this paper, we solve the problem of finding a certified control policy that d
 #### Reviews
 
 #### Rebuttal
+

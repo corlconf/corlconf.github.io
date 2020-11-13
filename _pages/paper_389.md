@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/14IYZ1oKJT3Uw1K9U8GB_AMcAMX-NqQJr/view
 ---
 
 # Unsupervised Metric Relocalization Using Transform Consistency Loss
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/14IYZ1oKJT3Uw1K9U8GB_AMcAMX-NqQJr/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/14IYZ1oKJT3Uw1K9U8GB_AMcAMX-NqQJr/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Mike Kasper (University of Colorado)*; Fernando Nobre (Amazon); Christoffer Heckman (University of Colorado); Nima Keivan (Amazon)**
@@ -30,3 +30,4 @@ Training networks to perform metric relocalization traditionally requires accura
 #### Reviews
 
 #### Rebuttal
+

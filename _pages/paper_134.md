@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1MSUoobvqvoWOFHT1AB5_1gjm2NlWywVu/view
 ---
 
 # Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1MSUoobvqvoWOFHT1AB5_1gjm2NlWywVu/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1MSUoobvqvoWOFHT1AB5_1gjm2NlWywVu/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Alex Bewley (Google)*; Pei Sun (Waymo); Thomas Mensink (Google Research / University of Amsterdam); Dragomir Anguelov (Waymo); Cristian Sminchisescu (Google)**
@@ -30,3 +30,4 @@ This paper presents a novel 3D object detection framework that processes LiDAR d
 #### Reviews
 
 #### Rebuttal
+

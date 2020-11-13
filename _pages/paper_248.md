@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1SgjO5_uAIVo-pKt3RhboyE1QqjcYawyu/view
 ---
 
 # Generation of Realistic Images for Learning in Simulation using FeatureGAN
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1SgjO5_uAIVo-pKt3RhboyE1QqjcYawyu/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1SgjO5_uAIVo-pKt3RhboyE1QqjcYawyu/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Nicolas Cruz (Universidad de Chile)*; Javier Ruiz-del-Solar (Universidad de Chile)**
@@ -30,3 +30,4 @@ This paper presents FeatureGan, a methodology to train image translators (genera
 #### Reviews
 
 #### Rebuttal
+

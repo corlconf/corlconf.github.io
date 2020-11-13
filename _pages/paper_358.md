@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1quDURs-x9x02tfxmCnxoi210dumoErf2/view
 ---
 
 # A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1quDURs-x9x02tfxmCnxoi210dumoErf2/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1quDURs-x9x02tfxmCnxoi210dumoErf2/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Anthony Simeonov (Massachusetts Institute of Technology)*; Yilun Du (MIT); Beomjoon Kim (MIT); Francois Hogan (MIT); Joshua Tenenbaum (MIT); Pulkit Agrawal (UC Berkeley); Alberto Rodriguez (MIT)**
@@ -30,3 +30,4 @@ We present a framework for solving long-horizon planning problems involving mani
 #### Reviews
 
 #### Rebuttal
+

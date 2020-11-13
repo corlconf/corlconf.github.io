@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1m-9qiFup0_u6bcM4ZH6cssy5mwECFjey/view
 ---
 
 # Untangling Dense Knots by Learning Task-Relevant Keypoints
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1m-9qiFup0_u6bcM4ZH6cssy5mwECFjey/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1m-9qiFup0_u6bcM4ZH6cssy5mwECFjey/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jennifer Grannen (UC Berkeley)*; Priya Sundaresan (UC Berkeley)*; Brijen Thananjeyan (UC Berkeley); Jeffrey Ichnowski (University of California, Berkeley); Ashwin Balakrishna (UC Berkeley); Minho Hwang (UC Berkeley); Vainavi Viswanath (UC Berkeley); Michael Laskey (UC Berkeley); Joseph Gonzalez (UC Berkeley); Ken Goldberg (UC Berkeley)**
@@ -30,3 +30,4 @@ Untangling ropes, wires, and cables is a challenging task for robots due to the 
 #### Reviews
 
 #### Rebuttal
+

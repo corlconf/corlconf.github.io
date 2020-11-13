@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/gsutanto/smp_manifold_learning
 youtubeId: 
+pdf: https://drive.google.com/file/d/1EWQLYvUUi52kRA5Cu5LcpwdTO43hqDLB/view
 ---
 
 # Learning Equality Constraints for Motion Planning on Manifolds
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1EWQLYvUUi52kRA5Cu5LcpwdTO43hqDLB/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1EWQLYvUUi52kRA5Cu5LcpwdTO43hqDLB/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/gsutanto/smp_manifold_learning" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Giovanni Sutanto (USC); Isabel Rayas Fernández (University of Southern California)*; Peter Englert (University of Southern California); Ragesh Kumar Ramachandran (University of Southern California); Gaurav Sukhatme (University of Southern California)**
@@ -30,3 +30,4 @@ Constrained robot motion planning is a widely used technique to solve complex ro
 #### Reviews
 
 #### Rebuttal
+

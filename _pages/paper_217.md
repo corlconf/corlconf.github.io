@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/martius-lab/iCEM.git
 youtubeId: 
+pdf: https://drive.google.com/file/d/19BfQlYirxv0iDDh5G8wcy93WUPSTrkzt/view
 ---
 
 # Sample-efficient Cross-Entropy Method for Real-time Planning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/19BfQlYirxv0iDDh5G8wcy93WUPSTrkzt/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/19BfQlYirxv0iDDh5G8wcy93WUPSTrkzt/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/martius-lab/iCEM.git" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Cristina Pinneri (Max Planck Institute for Intelligent Systems)*; Shambhuraj Sawant (Max Planck Institute for Intelligent Systems); Sebastian Blaes (Max Planck Institute for Intelligent Systems); Jan Achterhold (Max Planck Institute for Intelligent Systems); Joerg Stueckler (Max-Planck-Institute for Intelligent Systems); Michal Rolinek (Max Planck Institute for Intelligent Systems); Georg Martius (Max Planck Institute for Intelligent Systems)**
@@ -33,3 +33,4 @@ requiring 2.7-22x less samples and yielding a performance increase of 1.2-10x in
 #### Reviews
 
 #### Rebuttal
+

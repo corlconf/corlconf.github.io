@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1a9Cy7dD-IHcom5s3MrlqpYQuje1aRS81/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1MYWfq9d2tpJuRwFFhzUjZf-mhgQGdB_h/view
 ---
 
 # Universal Embeddings for Spatio-Temporal Tagging of Self-Driving Logs
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1MYWfq9d2tpJuRwFFhzUjZf-mhgQGdB_h/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1MYWfq9d2tpJuRwFFhzUjZf-mhgQGdB_h/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1a9Cy7dD-IHcom5s3MrlqpYQuje1aRS81/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Sean Segal (Uber ATG)*; Eric Kee (Uber ATG); Wenjie Luo (University of Toronto); Abbas Sadat (Uber ATG); Ersin Yumer (Uber ATG); Raquel Urtasun (Uber ATG)**
@@ -30,3 +30,4 @@ In this paper, we tackle the problem of spatio-temporal tagging of self-driving 
 #### Reviews
 
 #### Rebuttal
+

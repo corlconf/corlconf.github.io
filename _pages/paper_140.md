@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/rkcosner/cyberpod_sim_ros
 youtubeId: 
+pdf: https://drive.google.com/file/d/1b2-B7GqG-pbuBSEgzIsFs6unbaY2rIT9/view
 ---
 
 # Guaranteeing Safety of Learned Perception Modules via Measurement-Robust Control Barrier Functions
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1b2-B7GqG-pbuBSEgzIsFs6unbaY2rIT9/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1b2-B7GqG-pbuBSEgzIsFs6unbaY2rIT9/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/rkcosner/cyberpod_sim_ros" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Sarah Dean (UC Berkeley)*; Andrew Taylor (Caltech); Ryan Cosner (Caltech); Benjamin Recht (UC Berkeley); Aaron Ames (Caltech)**
@@ -30,3 +30,4 @@ Modern nonlinear control theory seeks to develop feedback controllers that endow
 #### Reviews
 
 #### Rebuttal
+

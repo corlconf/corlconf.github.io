@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/uzh-rpg/flightmare
 youtubeId: 
+pdf: https://drive.google.com/file/d/1snUSNps-o0nHJwo3C_62XubQzKxIKztY/view
 ---
 
 # Flightmare: A Flexible Quadrotor Simulator
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1snUSNps-o0nHJwo3C_62XubQzKxIKztY/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1snUSNps-o0nHJwo3C_62XubQzKxIKztY/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/uzh-rpg/flightmare" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yunlong Song (ETH / University of Zurich)*; Selim  Naji  (ETH / Univ. of Zurich); Elia Kaufmann (ETH / University of Zurich); Antonio Loquercio (ETH / University of Zurich); Davide Scaramuzza (University of Zurich & ETH Zurich, Switzerland)**
@@ -30,3 +30,4 @@ State-of-the-art quadrotor simulators have a rigid and highly-specialized struct
 #### Reviews
 
 #### Rebuttal
+

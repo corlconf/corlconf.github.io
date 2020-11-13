@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/lil-lab/drif/tree/fewshot2020
 youtubeId: 
+pdf: https://drive.google.com/file/d/14IuMBuWKW0ZPhVMc17slpg5OJNdoQRk6/view
 ---
 
 # Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/14IuMBuWKW0ZPhVMc17slpg5OJNdoQRk6/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/14IuMBuWKW0ZPhVMc17slpg5OJNdoQRk6/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/lil-lab/drif/tree/fewshot2020" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Valts Blukis (Cornell University)*; Ross Knepper (Cornell University); Yoav Artzi (Cornell University)**
@@ -30,3 +30,4 @@ We study the problem of learning a robot policy to follow natural language instr
 #### Reviews
 
 #### Rebuttal
+

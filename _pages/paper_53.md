@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/huawei-noah/SMARTS
 youtubeId: 
+pdf: https://drive.google.com/file/d/1sPaYvDVpLwvCxpECYRqMowIYOfyJqS90/view
 ---
 
 # SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1sPaYvDVpLwvCxpECYRqMowIYOfyJqS90/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1sPaYvDVpLwvCxpECYRqMowIYOfyJqS90/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/huawei-noah/SMARTS" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Ming Zhou (Shanghai Jiao Tong University); Jun Luo (Huawei Technologies Canada Co. Ltd.)*; Julian Villella (Independant); Yaodong Yang (Huawei); David Rusu (Huawei); Jiayu Miao (Shanghai Jiao Tong University); Weinan Zhang (Shanghai Jiao Tong University); Montgomery Alban (Huawei); IMAN FADAKAR (HUAWEI TECHNOLOGIES CANADA); Zheng Chen (Huawei); Chongxi Huang (Huawei Technologies); Ying Wen (Huawei); Kimia Hassanzadeh (Huawei); Daniel Graves (Huawei); Zhengbang Zhu (Huawei Noah’s Ark Lab); Yihan Ni (Huawei Technologies); Nhat Nguyen (Huawei); Mohamed Elsayed (Huawei Technologies Canada Co., Ltd); Haitham Ammar (Huawei); Alexander Cowen-Rivers (Huawei R&D UK); Sanjeevan Ahilan (Independant); Zheng Tian (Huawei); Daniel Palenicek (Huawei); Kasra Rezaee (University of Toronto); Peyman Yadmellat (Huawei Technologies Canada); Kun Shao (Huawei Noah's Ark Lab); dong chen (Huawei Technologies Co., Ltd.); Baokuan Zhang (Huawei Technologies Co., Ltd.); Hongbo Zhang (Huawei Noah's Ark Lab); Jianye Hao (Tianjin University); Wulong Liu (Huawei Noah's Ark Lab); Jun Wang (UCL)**
@@ -30,3 +30,4 @@ Interaction is fundamental in autonomous driving (AD). Despite more than a decad
 #### Reviews
 
 #### Rebuttal
+

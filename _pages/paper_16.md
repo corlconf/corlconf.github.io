@@ -9,12 +9,12 @@ parent: Wednesday
 supp: https://drive.google.com/file/d/1wAtSd4i7CHKFdneTe0VbBdYRkPp3Cm2S/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Ul5BuI3FmmJVPrdEvpABYQCS6Neq7PtF/view
 ---
 
 # Neuro-Symbolic Program Search for Autonomous Driving Decision Module Design
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Ul5BuI3FmmJVPrdEvpABYQCS6Neq7PtF/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Ul5BuI3FmmJVPrdEvpABYQCS6Neq7PtF/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1wAtSd4i7CHKFdneTe0VbBdYRkPp3Cm2S/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jiankai Sun (CUHK)*; Hao Sun (CUHK); Tian Han (Stevens Institute of Technology); Bolei Zhou (CUHK)**
@@ -30,3 +30,4 @@ As a promising topic in cognitive robotics, neuro-symbolic modeling integrates s
 #### Reviews
 
 #### Rebuttal
+

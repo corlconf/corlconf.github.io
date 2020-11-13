@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/unstable-zeros/learning-hcbfs
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Aic58kKFuu1Ik1uOduePc1G1k8IF4upE/view
 ---
 
 # Learning Hybrid Control Barrier Functions from Data
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Aic58kKFuu1Ik1uOduePc1G1k8IF4upE/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Aic58kKFuu1Ik1uOduePc1G1k8IF4upE/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/unstable-zeros/learning-hcbfs" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Lars Lindemann (KTH Royal Institute of Technology)*; Haimin Hu (University of Pennsylvania); Alexander Robey (University of Pennsylvania); Hanwen Zhang (University of Pennsylvania); Dimos Dimarogonas (KTH Royal Institute of Technology, Sweden); Stephen Tu (Google); Nikolai Matni (University of Pennsylvania)**
@@ -31,3 +31,4 @@ Motivated by the lack of systematic tools to obtain safe control laws for hybrid
 #### Reviews
 
 #### Rebuttal
+

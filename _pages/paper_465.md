@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/sontung/location-based-generative
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Pe_5WDbMg9UsaPR5GWXJKut7E1c5Vgw-/view
 ---
 
 # Self-Supervised Learning of Scene-Graph Representations for Robotic Sequential Manipulation Planning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Pe_5WDbMg9UsaPR5GWXJKut7E1c5Vgw-/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Pe_5WDbMg9UsaPR5GWXJKut7E1c5Vgw-/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/sontung/location-based-generative" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Son Nguyen (University Stuttgart)*; Ozgur Oguz (Uni. of Stuttgart & Max Planck Inst. for Intelligent Systems ); Valentin Hartmann (University of Stuttgart); Marc Toussaint (Technische Universität Berlin)**
@@ -31,3 +31,4 @@ We present a self-supervised representation learning approach for visual reasoni
 #### Reviews
 
 #### Rebuttal
+

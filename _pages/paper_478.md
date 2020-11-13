@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1kBrLBZy_eXiT-K6dR8H1BA8DCrJghpxO/view
 ---
 
 # S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1kBrLBZy_eXiT-K6dR8H1BA8DCrJghpxO/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1kBrLBZy_eXiT-K6dR8H1BA8DCrJghpxO/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Ran Cheng (Huawei)*; Christopher Agia (University of Toronto); Yuan Ren (Huawei); Xinhai Li (Huawei); Liu Bingbing (Huawei Noah’s Ark Lab, Canada)**
@@ -30,3 +30,4 @@ With the increasing reliance of self-driving and similar robotic systems on robu
 #### Reviews
 
 #### Rebuttal
+

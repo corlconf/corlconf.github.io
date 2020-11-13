@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/19Hwr4MzkOK_wUbmF5gBTwO5paCcFkHCR/view
 ---
 
 # Reactive motion planning with probabilisticsafety guarantees
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/19Hwr4MzkOK_wUbmF5gBTwO5paCcFkHCR/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/19Hwr4MzkOK_wUbmF5gBTwO5paCcFkHCR/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yuxiao Chen (California Institute of Technology)*; Ugo Rosolia (California Institute of Technology); Chuchu Fan (MIT); Aaron Ames (Caltech); Richard Murray (California Institute of Technology)**
@@ -30,3 +30,4 @@ Motion planning in environments with multiple agents is critical to many importa
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/avisingh599/cog
 youtubeId: 
+pdf: https://drive.google.com/file/d/12UXSytPrxJH6yleXjyujw-sLMb0g_2Kg/view
 ---
 
 # Chaining Behaviors from Data with Model-Free Reinforcement Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/12UXSytPrxJH6yleXjyujw-sLMb0g_2Kg/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/12UXSytPrxJH6yleXjyujw-sLMb0g_2Kg/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/avisingh599/cog" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Avi Singh (UC Berkeley)*; Albert Yu (UC Berkeley); Jonathan Yang (UC Berkeley); Jesse Zhang (UC Berkeley); Aviral Kumar (UC Berkeley); Sergey Levine (UC Berkeley)**
@@ -31,3 +31,4 @@ While most prior work on extending robotic skills using pre-collected data focus
 #### Reviews
 
 #### Rebuttal
+

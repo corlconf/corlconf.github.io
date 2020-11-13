@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/17PISQYfY9Jvvg-MK4_mG89wj-J3O65Mx/view
 ---
 
 # Towards Robotic Assembly by Predicting Robust, Precise and Task-oriented Grasps
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/17PISQYfY9Jvvg-MK4_mG89wj-J3O65Mx/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/17PISQYfY9Jvvg-MK4_mG89wj-J3O65Mx/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jialiang Zhao (Carnegie Mellon University)*; Daniel Troniak (Carnegie Mellon University); Oliver Kroemer (Carnegie Mellon University)**
@@ -30,3 +30,4 @@ Robust task-oriented grasp planning is vital for autonomous robotic precision as
 #### Reviews
 
 #### Rebuttal
+

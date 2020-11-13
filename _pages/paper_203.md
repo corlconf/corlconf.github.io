@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/Yusufma03/CVRL
 youtubeId: 
+pdf: https://drive.google.com/file/d/1A7DE9xPwZJjnPh_qol8gJW0RFWBlYyG3/view
 ---
 
 # Contrastive Variational Reinforcement Learning for Complex Observations
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1A7DE9xPwZJjnPh_qol8gJW0RFWBlYyG3/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1A7DE9xPwZJjnPh_qol8gJW0RFWBlYyG3/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/Yusufma03/CVRL" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Xiao Ma (National University of Singapore)*; SIWEI CHEN (National University of Singapore); David Hsu (NUS); Wee Sun Lee (National University of Singapore)**
@@ -30,3 +30,4 @@ Deep reinforcement learning (DRL) has achieved significant success in various ro
 #### Reviews
 
 #### Rebuttal
+

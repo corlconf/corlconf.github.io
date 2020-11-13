@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1YHnFr6TTuzBZa8Bl2HvEd283YGrreSDc/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1jzvkir7oheEpyGkApdf-tps-HRmezXX9/view
 ---
 
 # Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1jzvkir7oheEpyGkApdf-tps-HRmezXX9/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1jzvkir7oheEpyGkApdf-tps-HRmezXX9/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1YHnFr6TTuzBZa8Bl2HvEd283YGrreSDc/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Tai Wang (The Chinese University of Hong Kong)*; Xinge Zhu (The Chinese University of Hong Kong); Dahua Lin (The Chinese University of Hong Kong)**
@@ -30,3 +30,4 @@ LiDAR is an important method for autonomous driving systems to sense the environ
 #### Reviews
 
 #### Rebuttal
+

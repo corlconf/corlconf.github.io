@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1z3gPe9jKhQJR-JOpPnjh2vcR13n2Y5Vl/view
 ---
 
 # SelfVoxeLO: Self-supervised LiDAR Odometry with Voxel-based Deep Neural Networks
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1z3gPe9jKhQJR-JOpPnjh2vcR13n2Y5Vl/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1z3gPe9jKhQJR-JOpPnjh2vcR13n2Y5Vl/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yan Xu (The Chinese University of Hong Kong)*; Zhaoyang Huang (Zhejiang University); Kwan-Yee Lin (SenseTime Research); Xinge Zhu (The Chinese University of Hong Kong); Jianping Shi (Sensetime Group Limited); Hujun Bao (Zhejiang University); Guofeng Zhang (Zhejiang University); Hongsheng Li (Chinese University of Hong Kong)**
@@ -30,3 +30,4 @@ Recent learning-based LiDAR odometry methods have demonstrated their competitive
 #### Reviews
 
 #### Rebuttal
+

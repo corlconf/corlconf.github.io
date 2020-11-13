@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/twsq/sam-driving
 youtubeId: 
+pdf: https://drive.google.com/file/d/1VVWsMR2MJ1q3Jknxe1QDHmnN37TpQzy8/view
 ---
 
 # SAM: Squeeze-and-Mimic Networks for Conditional Visual Driving Policy Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1VVWsMR2MJ1q3Jknxe1QDHmnN37TpQzy8/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1VVWsMR2MJ1q3Jknxe1QDHmnN37TpQzy8/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/twsq/sam-driving" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Albert Zhao (UCLA)*; Tong He (UCLA); Yitao Liang (UCLA); Haibin Huang (Kuaishou Technology); Guy Van den Broeck (UCLA); Stefano Soatto (UCLA)**
@@ -30,3 +30,4 @@ We describe a policy learning approach to map visual inputs to driving controls 
 #### Reviews
 
 #### Rebuttal
+

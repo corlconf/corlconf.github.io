@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1mGjO7dQcyxXhRbekCRVeRiRXRmho-i3W/view
 ---
 
 # Map-Adaptive Goal-Based Trajectory Prediction
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1mGjO7dQcyxXhRbekCRVeRiRXRmho-i3W/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1mGjO7dQcyxXhRbekCRVeRiRXRmho-i3W/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Lingyao Zhang (Uber ATG)*; Po-Hsun Su (UATC LLC); Jerrick Hoang (Uber ATG); Galen Clark  Haynes (Uber ATC); Micol Marchetti-Bowick (Uber ATG)**
@@ -30,3 +30,4 @@ We present a new method for multi-modal, long-term vehicle trajectory prediction
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/StanfordASL/UP
 youtubeId: 
+pdf: https://drive.google.com/file/d/1_ZKJV7JMX1i-xT6w6XfeH7iAKCR1XDDp/view
 ---
 
 # Sampling-based Reachability Analysis: A Random Set Theory Approach with Adversarial Sampling
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1_ZKJV7JMX1i-xT6w6XfeH7iAKCR1XDDp/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1_ZKJV7JMX1i-xT6w6XfeH7iAKCR1XDDp/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/StanfordASL/UP" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Thomas Lew (Stanford University)*; Marco Pavone (Stanford University)**
@@ -30,3 +30,4 @@ Reachability analysis is at the core of many applications, from neural network v
 #### Reviews
 
 #### Rebuttal
+

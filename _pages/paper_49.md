@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/yixiao1/Action-Based-Representation-Learning
 youtubeId: 
+pdf: https://drive.google.com/file/d/18G1dNx9fA3yxjpc-RR9OMfaNTiG8tCsX/view
 ---
 
 # Action-based Representation Learning for Autonomous Driving
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/18G1dNx9fA3yxjpc-RR9OMfaNTiG8tCsX/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/18G1dNx9fA3yxjpc-RR9OMfaNTiG8tCsX/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/yixiao1/Action-Based-Representation-Learning" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Yi Xiao (CVC & UAB)*; Felipe Codevilla (MILA); Christopher Pal (École Polytechnique de Montréal ); Antonio Lopez (CVC & UAB)**
@@ -31,3 +31,4 @@ Human drivers produce a vast amount of data which could, in principle, be used t
 #### Reviews
 
 #### Rebuttal
+

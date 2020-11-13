@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1W9mC4CWT1tFJGWZC0lKeDwFLnfIifxjM/view
 ---
 
 # Learning Stability Certificates from Data
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1W9mC4CWT1tFJGWZC0lKeDwFLnfIifxjM/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1W9mC4CWT1tFJGWZC0lKeDwFLnfIifxjM/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Nicholas Boffi (Harvard University); Stephen Tu (Google)*; Nikolai Matni (University of Pennsylvania); Jean-Jacques Slotine (MIT); Vikas Sindhwani (Google)**
@@ -30,3 +30,4 @@ Many existing tools in nonlinear control theory for establishing stability or sa
 #### Reviews
 
 #### Rebuttal
+

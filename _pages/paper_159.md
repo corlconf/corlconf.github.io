@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1pyzHYRa0iRYSh-TTZLJ2CF2YlbO7BUqq/view
 ---
 
 # Action-Conditional Recurrent Kalman Networks For Forward and Inverse Dynamics Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1pyzHYRa0iRYSh-TTZLJ2CF2YlbO7BUqq/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1pyzHYRa0iRYSh-TTZLJ2CF2YlbO7BUqq/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Vaisakh Shaj (Karlsruhe Institute Of Technology)*; Philipp Becker (Karlsruhe Institute of Technology (KIT)); Dieter Büchler (MPI for Intelligent Systems Tübingen); Harit Pandya (University of Lincoln); Niels van Duijkeren (Bosch Corporate Research); C. James  Taylor (Lancaster University); Marc Hanheide (University of Lincoln); Gerhard Neumann (KIT)**
@@ -33,3 +33,4 @@ We adopt a recent probabilistic recurrent neural network architecture, called Re
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1iyQxPL-E4v9pK8SSaYGiaDGa5qiBgbWz/view
 ---
 
 # MuGNet: Multi-Resolution Graph Neural Network for Segmenting Large-Scale Pointclouds
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1iyQxPL-E4v9pK8SSaYGiaDGa5qiBgbWz/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1iyQxPL-E4v9pK8SSaYGiaDGa5qiBgbWz/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Liuyue Xie (Carnegie Mellon University)*; Tomotake Furuhata (Carnegie Mellon University); Kenji Shimada (Carnegie Mellon University	)**
@@ -30,3 +30,4 @@ In this paper, we propose a multi-resolution deep-learning architecture to segme
 #### Reviews
 
 #### Rebuttal
+

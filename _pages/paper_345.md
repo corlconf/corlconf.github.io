@@ -9,12 +9,12 @@ parent: Wednesday
 supp: https://drive.google.com/file/d/1K05b6qZNjP0XNHaGZ5laF4lrPr7g4lij/view
 code: https://github.com/wagnew3/ARM
 youtubeId: 
+pdf: https://drive.google.com/file/d/1AQMpFtZxKASH1WGs45NYfdMI621IXtAI/view
 ---
 
 # Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1AQMpFtZxKASH1WGs45NYfdMI621IXtAI/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1AQMpFtZxKASH1WGs45NYfdMI621IXtAI/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1K05b6qZNjP0XNHaGZ5laF4lrPr7g4lij/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/wagnew3/ARM" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **William Agnew (University of Washington)*; Christopher Xie (University of Washington); Aaron Walsman (University of Washington); Octavian Murad (University of Washington); Yubo Wang (University of Washington); Pedro Domingos (University of Washington); Siddhartha Srinivasa (University of Washington)**
@@ -30,3 +30,4 @@ Learning-based 3D object reconstruction enables single- or few-shot estimation o
 #### Reviews
 
 #### Rebuttal
+

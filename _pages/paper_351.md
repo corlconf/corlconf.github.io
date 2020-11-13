@@ -9,12 +9,12 @@ parent: Tuesday
 supp: https://drive.google.com/file/d/1i2NWHoTT6Ws7YT6Hsb1u3Gii_oKzSyzZ/view
 code: https://github.com/GT-RAIL/circuit_htn
 youtubeId: 
+pdf: https://drive.google.com/file/d/18MBP2D4BgOAsKjEW9DEqRb8v2ugx1nwQ/view
 ---
 
 # Learning Hierarchical Task Networks with Preferences from Unannotated Demonstrations
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/18MBP2D4BgOAsKjEW9DEqRb8v2ugx1nwQ/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/18MBP2D4BgOAsKjEW9DEqRb8v2ugx1nwQ/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1i2NWHoTT6Ws7YT6Hsb1u3Gii_oKzSyzZ/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/GT-RAIL/circuit_htn" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Kevin  Chen (Georgia Institute of Technology); Nithin Shrivatsav Srikanth (Georgia Institute of Technology); David Kent (Georgia Institute of Technology)*; Harish Ravichandar (Georgia Institute of Technology); Sonia Chernova (Georgia Institute of Technology	)**
@@ -30,3 +30,4 @@ We address the problem of learning Hierarchical Task Networks (HTNs) from unanno
 #### Reviews
 
 #### Rebuttal
+

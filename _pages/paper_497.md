@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/rohjunha/multiple-topologies-prediction
 youtubeId: 
+pdf: https://drive.google.com/file/d/1mzKW09aNW683bCveX8bKjUYRo5sVq3fH/view
 ---
 
 # Multimodal Trajectory Prediction via Topological Invariance for Navigation at Uncontrolled Intersections
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1mzKW09aNW683bCveX8bKjUYRo5sVq3fH/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1mzKW09aNW683bCveX8bKjUYRo5sVq3fH/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/rohjunha/multiple-topologies-prediction" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Junha Roh (University of Washington); Christoforos Mavrogiannis (University of Washington)*; Rishabh Madan (Indian Institute of Technology Kharagpur); Dieter Fox (NVIDIA Research / University of Washington); Siddhartha Srinivasa (University of Washington)**
@@ -30,3 +30,4 @@ We focus on decentralized navigation among multiple non-communicating rational a
 #### Reviews
 
 #### Rebuttal
+

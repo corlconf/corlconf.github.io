@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/cgxuvector/ml_nav
 youtubeId: 
+pdf: https://drive.google.com/file/d/11N5huogxSrWkL_dJm67KeldVEnaMHyG9/view
 ---
 
 # Hierarchical Robot Navigation in Novel Environments using Rough 2-D Maps
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/11N5huogxSrWkL_dJm67KeldVEnaMHyG9/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/11N5huogxSrWkL_dJm67KeldVEnaMHyG9/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/cgxuvector/ml_nav" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Chengguang Xu (Northeastern University)*; Christopher Amato (Northeastern University); Lawson Wong (Northeastern University)**
@@ -30,3 +30,4 @@ In robot navigation, generalizing quickly to unseen environments is essential.  
 #### Reviews
 
 #### Rebuttal
+

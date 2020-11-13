@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/DAIRLab/contact-nets
 youtubeId: 
+pdf: https://drive.google.com/file/d/1X67-j0xG-92MDLvv7w8FHGXrIdkGmy-8/view
 ---
 
 # ContactNets: Learning Discontinuous Contact Dynamics with Smooth, Implicit Representations
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1X67-j0xG-92MDLvv7w8FHGXrIdkGmy-8/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1X67-j0xG-92MDLvv7w8FHGXrIdkGmy-8/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/DAIRLab/contact-nets" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Samuel Pfrommer (University of Pennsylvania); Mathew Halm (University of Pennsylvania)*; Michael Posa (University of Pennsylvania)**
@@ -30,3 +30,4 @@ Common methods for learning robot dynamics assume motion is continuous, causing 
 #### Reviews
 
 #### Rebuttal
+

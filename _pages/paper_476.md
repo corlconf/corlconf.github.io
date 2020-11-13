@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: https://github.com/sgillen/fractal_rl
 youtubeId: 
+pdf: https://drive.google.com/file/d/1OryWMUs-HbZL5wbDOg0ynZc1crtHj3R4/view
 ---
 
 # Explicitly Encouraging Low Fractional Dimensional Trajectories Via Reinforcement Learning
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1OryWMUs-HbZL5wbDOg0ynZc1crtHj3R4/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1OryWMUs-HbZL5wbDOg0ynZc1crtHj3R4/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/sgillen/fractal_rl" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Sean Gillen (UCSB)*; Katie Byl (UCSB)**
@@ -30,3 +30,4 @@ A key limitation in using various modern methods of machine learning in developi
 #### Reviews
 
 #### Rebuttal
+

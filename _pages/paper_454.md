@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1mX7mXjHkRDxQaoW_JYSxwQnEQfYTl9pN/view
 ---
 
 # Learning Vision-based Reactive Policies for Obstacle Avoidance
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1mX7mXjHkRDxQaoW_JYSxwQnEQfYTl9pN/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1mX7mXjHkRDxQaoW_JYSxwQnEQfYTl9pN/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Elie Aljalbout (Technical University of Munich)*; Ji Chen (Technical University of Munich); Konstantin Ritt (Technical University of Munich); Maximilian Ulmer (Technical University of Munich); Sami Haddadin (Technical University of Munich)**
@@ -30,3 +30,4 @@ In this paper, we address the problem of vision-based obstacle avoidance for rob
 #### Reviews
 
 #### Rebuttal
+

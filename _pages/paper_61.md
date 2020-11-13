@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1Wx1GhK3CiEJLk2fTGNSJKR_syCNDrRl0/view
 ---
 
 # Integrating Egocentric Localization for More Realistic Point-Goal Navigation Agents
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1Wx1GhK3CiEJLk2fTGNSJKR_syCNDrRl0/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1Wx1GhK3CiEJLk2fTGNSJKR_syCNDrRl0/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Samyak Datta (Georgia Tech)*; Oleksandr Maksymets (Facebook AI Research); Judy Hoffman (Georgia Tech); Stefan Lee (Oregon State University); Dhruv Batra (Georgia Tech & Facebook AI Research); Devi Parikh (Georgia Tech & Facebook AI Research)**
@@ -30,3 +30,4 @@ Recent work has presented embodied agents that can navigate to point-goal target
 #### Reviews
 
 #### Rebuttal
+

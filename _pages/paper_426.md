@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/mtuluhanakbulut/ACNMP
 youtubeId: 
+pdf: https://drive.google.com/file/d/1XFYVbAepttZBziVSvex7unKRiMQfUgS7/view
 ---
 
 # ACNMP: Skill Transfer and Task Extrapolation through Learning from Demonstration and Reinforcement Learning via Representation Sharing
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1XFYVbAepttZBziVSvex7unKRiMQfUgS7/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1XFYVbAepttZBziVSvex7unKRiMQfUgS7/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/mtuluhanakbulut/ACNMP" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Mete Akbulut (Bogazici University)*; Erhan Oztop (Ozyeğin Üniversitesi); Muhammet Yunus Seker (Bogazici University); Hh X (University); Ahmet Tekden (Boğaziçi Üniversitesi); Emre Ugur (Bogazici University)**
@@ -30,3 +30,4 @@ To equip robots with dexterous skills, an effective approach is to first transfe
 #### Reviews
 
 #### Rebuttal
+

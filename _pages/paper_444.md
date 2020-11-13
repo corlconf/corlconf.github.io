@@ -9,12 +9,12 @@ parent: Wednesday
 supp: https://drive.google.com/file/d/1O6i1MD4VuxKtAQswoTmMC3atxTM6PiiH/view
 code: https://github.com/sarahisyoung/Visual-Imitation-Made-Easy/
 youtubeId: 
+pdf: https://drive.google.com/file/d/1n_KLFTDWJ5sKrZRm2viT2TpA4lIbmy3r/view
 ---
 
 # Visual Imitation Made Easy
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1n_KLFTDWJ5sKrZRm2viT2TpA4lIbmy3r/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1n_KLFTDWJ5sKrZRm2viT2TpA4lIbmy3r/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1O6i1MD4VuxKtAQswoTmMC3atxTM6PiiH/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/sarahisyoung/Visual-Imitation-Made-Easy/" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Sarah Young (UC Berkeley)*; Dhiraj Gandhi (Carnegie Mellon University);  Shubham Tulsiani (Facebook AI Research); Abhinav Gupta (CMU/FAIR); Pieter Abbeel (UC Berkeley); Lerrel Pinto (NYU/Berkeley)**
@@ -30,3 +30,4 @@ Visual imitation learning provides a framework for learning complex manipulation
 #### Reviews
 
 #### Rebuttal
+

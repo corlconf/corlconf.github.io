@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1vUtrHNLrQUTDw-DdwH8oLGbpduxrAbai/view
 ---
 
 # Fast robust peg-in-hole insertion with continuous visual servoing
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1vUtrHNLrQUTDw-DdwH8oLGbpduxrAbai/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1vUtrHNLrQUTDw-DdwH8oLGbpduxrAbai/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Rasmus Haugaard (University of Southern Denmark)*; Jeppe Langaa (University of Southern Denmark); Christoffer Sloth (University of Southern Denmark); Anders Buch (University of Southern Denmark)**
@@ -30,3 +30,4 @@ This paper demonstrates a visual servoing method which is robust towards uncerta
 #### Reviews
 
 #### Rebuttal
+

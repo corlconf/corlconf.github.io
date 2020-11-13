@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1LlGrYCXlNJYRc7XzN_3CwQd_QdmDLb-F/view
 ---
 
 # Towards General and Autonomous Learning of Core Skills: A Case Study in Locomotion
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1LlGrYCXlNJYRc7XzN_3CwQd_QdmDLb-F/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1LlGrYCXlNJYRc7XzN_3CwQd_QdmDLb-F/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Roland Hafner (Google DeepMind)*; Tim Hertweck (DeepMind); Philipp Kloeppner (TU Darmstadt); Michael Bloesch (Google); Michael Neunert (Google DeepMind); Markus Wulfmeier (DeepMind); Saran  Tunyasuvunakool (DeepMind); Nicolas Heess (DeepMind); Martin Riedmiller (DeepMind)**
@@ -32,3 +32,4 @@ To underline the general applicability of the method, we keep the hyper-paramete
 #### Reviews
 
 #### Rebuttal
+

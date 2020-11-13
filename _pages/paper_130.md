@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/clvrai/mopa-rl
 youtubeId: 
+pdf: https://drive.google.com/file/d/1asruNpTN20J9c0D-dA-gdt-07GoCDjGF/view
 ---
 
 # Motion Planner Augmented Reinforcement Learning for Robot Manipulation in Obstructed Environments
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1asruNpTN20J9c0D-dA-gdt-07GoCDjGF/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1asruNpTN20J9c0D-dA-gdt-07GoCDjGF/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/clvrai/mopa-rl" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jun Yamada (University of Southern California); Youngwoon Lee (University of Southern California)*; Gautam Salhotra (University of Southern California); Karl Pertsch (University of Southern California); Max Pflueger (University of Southern California); Gaurav Sukhatme (University of Southern California); Joseph Lim (USC); Peter Englert (University of Southern California)**
@@ -30,3 +30,4 @@ Deep reinforcement learning (RL) agents are able to learn contact-rich manipulat
 #### Reviews
 
 #### Rebuttal
+

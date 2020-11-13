@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/StochLab/SlopedTerrainLinearPolicy
 youtubeId: 
+pdf: https://drive.google.com/file/d/194fCa0jSmn2UaP_OTgawEo8IvwmE8DZz/view
 ---
 
 # Robust Quadrupedal Locomotion on Sloped Terrains: A Linear Policy Approach
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/194fCa0jSmn2UaP_OTgawEo8IvwmE8DZz/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/194fCa0jSmn2UaP_OTgawEo8IvwmE8DZz/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/StochLab/SlopedTerrainLinearPolicy" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Kartik Paigwar (Indian Institute of Science)*; Lokesh Krishna (IISc); sashank tirumala (IISC Bangalore); naman khetan (IISc); aditya varma (iisc); ashish joglekar (IISc); Shalabh Bhatnagar (Indian Institute of Science (IISc) Bangalore); Ashitava Ghosal (Indian Institute of Science); Bharadwaj Amrutur (IISc Bangalore); Shishir Kolathaya (IISc)**
@@ -30,3 +30,4 @@ In this paper, with a view toward fast deployment of locomotion gaits in low-cos
 #### Reviews
 
 #### Rebuttal
+

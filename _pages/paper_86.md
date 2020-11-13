@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/lyft/l5kit
 youtubeId: 
+pdf: https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view
 ---
 
 # One Thousand and One Hours: Self-driving Motion Prediction Dataset
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/lyft/l5kit" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **John Houston (Lyft); Guido Zuidhof (Lyft); Luca Bergamini (Lyft); Yawei Ye (Lyft); Long Chen (Lyft); Ashesh Jain (Lyft); Sammy Omari (Lyft); Vladimir Iglovikov (Lyft); Peter Ondruska (Lyft)***
@@ -30,3 +30,4 @@ Motivated by the impact of large-scale datasets on ML systems we present the lar
 #### Reviews
 
 #### Rebuttal
+

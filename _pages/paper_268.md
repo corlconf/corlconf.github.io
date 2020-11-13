@@ -9,12 +9,12 @@ parent: Tuesday
 supp: https://drive.google.com/file/d/1yxkCoXeE22yAIyNKqRPD7U_xqbmzf_2L/view
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1a1h5QgQwYQQud0oNSAJwT0G73zSuoF5w/view
 ---
 
 # EXI-Net: EXplicitly/Implicitly Conditioned Network for Multiple Environment Sim-to-Real Transfer
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1a1h5QgQwYQQud0oNSAJwT0G73zSuoF5w/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1a1h5QgQwYQQud0oNSAJwT0G73zSuoF5w/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1yxkCoXeE22yAIyNKqRPD7U_xqbmzf_2L/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Takayuki Murooka (The University of Tokyo)*; Masashi Hamaya (OMRON SINICX Corporation); Felix von Drigalski (OMRON SINIC X); Kazutoshi Tanaka (OMRON SINIC X Corporation); Yoshihisa Ijiri (OMRON Corporation)**
@@ -30,3 +30,4 @@ Sim-to-real transfer is attractive for robot learning, as it avoids the high cos
 #### Reviews
 
 #### Rebuttal
+

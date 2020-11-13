@@ -9,12 +9,12 @@ parent: Wednesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/15lZ0nPZeV5zFY2heTU2ZZUpaXQkuJPH8/view
 ---
 
 # S3K: Self-Supervised Semantic Keypoints for Robotic Manipulation via Multi-View Consistency
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/15lZ0nPZeV5zFY2heTU2ZZUpaXQkuJPH8/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/15lZ0nPZeV5zFY2heTU2ZZUpaXQkuJPH8/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Mel Vecerik (University College London, Deepmind)*; Jean-Baptiste Regli (Deepmind); Oleg Sushkov (DeepMind); David Barker (DeepMind); Rugile Pevceviciute (DeepMind); Thomas Roth ̈orl (DeepMind); Raia Hadsell (Deepmind); Lourdes Agapito (University College London); Jonathan Scholz (DeepMind)**
@@ -30,3 +30,4 @@ A robot’s ability to act is fundamentally constrained by what it can perceive.
 #### Reviews
 
 #### Rebuttal
+

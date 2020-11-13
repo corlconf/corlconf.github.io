@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://transporternets.github.io/
 youtubeId: 
+pdf: https://drive.google.com/file/d/1bKdEOOwCXBnu5zNjw-JKuZdr2GMSD_8-/view
 ---
 
 # Transporter Networks: Rearranging the Visual World for Robotic Manipulation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1bKdEOOwCXBnu5zNjw-JKuZdr2GMSD_8-/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1bKdEOOwCXBnu5zNjw-JKuZdr2GMSD_8-/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://transporternets.github.io/" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Andy Zeng (Google)*; Pete Florence (Google); Jonathan Tompson (Google); Stefan Welker (Google); Jonathan Chien (Google); Maria Attarian (Google); Travis Armstrong (Google); Ivan Krasin (Google); Dan Duong (Google); Vikas Sindhwani (Google); Johnny Lee (Google)**
@@ -30,3 +30,4 @@ Robotic manipulation can be formulated as inducing a sequence of spatial displac
 #### Reviews
 
 #### Rebuttal
+

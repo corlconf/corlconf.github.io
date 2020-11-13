@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1vp_lTEafCyMiF2z2jyB0NTYuWH45x6R4/view
 ---
 
 # Multi-Level Structure vs. End-to-End-Learning in High-Performance Tactile Robotic Manipulation
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1vp_lTEafCyMiF2z2jyB0NTYuWH45x6R4/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1vp_lTEafCyMiF2z2jyB0NTYuWH45x6R4/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Florian Voigt (Technical University of Munich)*; Lars Johannsmeier (Technical University of Munich); Sami Haddadin (Technical University of Munich)**
@@ -30,3 +30,4 @@ In this paper we apply a multi-level structure to robotic manipulation learning.
 #### Reviews
 
 #### Rebuttal
+

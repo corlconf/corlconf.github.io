@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/1aoflX9_WZdN2PAeoC9z0NS9GllZkTY2-/view
 code: https://github.com/google-research/google-research/tree/master/depth_and_motion_learning
 youtubeId: 
+pdf: https://drive.google.com/file/d/18Dt24fgdRhuAOtxU4GRGDqF0fN0V_0mk/view
 ---
 
 # Unsupervised Monocular Depth Learning in Dynamic Scenes
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/18Dt24fgdRhuAOtxU4GRGDqF0fN0V_0mk/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/18Dt24fgdRhuAOtxU4GRGDqF0fN0V_0mk/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1aoflX9_WZdN2PAeoC9z0NS9GllZkTY2-/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/google-research/google-research/tree/master/depth_and_motion_learning" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Hanhan Li (Google AI); Ariel Gordon (Google Research)*; Hang Zhao (Waymo); Vincent Casser (Waymo); Anelia Angelova (Google)**
@@ -30,3 +30,4 @@ We present a method for jointly training the estimation of depth, ego-motion, an
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtubeId: 
+pdf: https://drive.google.com/file/d/1CPzLxi8YazDSvQI13t7WK5N9hMCTC5ry/view
 ---
 
 # Relational Learning for Skill Preconditions
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1CPzLxi8YazDSvQI13t7WK5N9hMCTC5ry/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1CPzLxi8YazDSvQI13t7WK5N9hMCTC5ry/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Mohit Sharma (Carnegie Mellon University)*; Oliver Kroemer (Carnegie Mellon University)**
@@ -31,3 +31,4 @@ Our work is motivated by the intuition that many complex manipulation tasks, wit
 #### Reviews
 
 #### Rebuttal
+

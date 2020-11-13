@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: https://github.com/twni2016/f-IRL
 youtubeId: 
+pdf: https://drive.google.com/file/d/10q7HqAekk5GS7at1j-ngW88MeWOJuJ2V/view
 ---
 
 # f-IRL: Inverse Reinforcement Learning via State Marginal Matching
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/10q7HqAekk5GS7at1j-ngW88MeWOJuJ2V/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/10q7HqAekk5GS7at1j-ngW88MeWOJuJ2V/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/twni2016/f-IRL" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Tianwei Ni (Carnegie Mellon University); Harshit Sikchi (Carnegie Mellon University)*; Yufei Wang (Carnegie Mellon University); Tejus Gupta (Carnegie Mellon University); Lisa Lee (Carnegie Mellon University); Ben Eysenbach (Carnegie Mellon University)**
@@ -36,3 +36,4 @@ Project videos and code link are available at <a href="https://sites.google.com/
 #### Reviews
 
 #### Rebuttal
+

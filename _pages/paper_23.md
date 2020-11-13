@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://git.io/JTnf6
 youtubeId: 
+pdf: https://drive.google.com/file/d/1kewz9U62Eh9IbZkFhSDuN99DzWLZT7NR/view
 ---
 
 # CAMPs: Learning Context-Specific Abstractions for Efficient Planning in Factored MDPs
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1kewz9U62Eh9IbZkFhSDuN99DzWLZT7NR/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1kewz9U62Eh9IbZkFhSDuN99DzWLZT7NR/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://git.io/JTnf6" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Rohan Chitnis (Massachusetts Institute of Technology)*; Tom Silver (MIT); Beomjoon Kim (MIT); Leslie Kaelbling (MIT); Tomas Lozano-Perez (MIT)**
@@ -30,3 +30,4 @@ Meta-planning, or learning to guide planning from experience, is a promising app
 #### Reviews
 
 #### Rebuttal
+

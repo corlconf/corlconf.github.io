@@ -9,12 +9,12 @@ parent: Tuesday
 supp: https://drive.google.com/file/d/1jX0b0gAfkXs6M2QAwnZesgSlzOHtxQta/view
 code: https://github.com/combra-lab/pop-spiking-deep-rl
 youtubeId: 
+pdf: https://drive.google.com/file/d/1ISjZ00GBnvJ8GE3K10aN91iphURPP5e2/view
 ---
 
 # Deep Reinforcement Learning with Population-Coded Spiking Neural Network for Continuous Control
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1ISjZ00GBnvJ8GE3K10aN91iphURPP5e2/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1ISjZ00GBnvJ8GE3K10aN91iphURPP5e2/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/1jX0b0gAfkXs6M2QAwnZesgSlzOHtxQta/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/combra-lab/pop-spiking-deep-rl" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Guangzhi Tang (Rutgers University); Neelesh Kumar (Rutgers University); Raymond Yoo (Rutgers University); Konstantinos  Michmizos (Rutgers University)***
@@ -30,3 +30,4 @@ The energy-efficient control of mobile robots has become crucial as the complexi
 #### Reviews
 
 #### Rebuttal
+

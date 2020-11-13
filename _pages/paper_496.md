@@ -9,12 +9,12 @@ parent: Monday
 supp: https://drive.google.com/file/d/156UKwuWjQecm72HFZot6ZlX9oxJICgQv/view
 code: https://github.com/tgangwani/QDAgents
 youtubeId: 
+pdf: https://drive.google.com/file/d/19pkVtyd0tFpNehomYRpskevGf6uvBKTb/view
 ---
 
 # Harnessing Distribution Ratio Estimators for Learning Agents with Quality and Diversity
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/19pkVtyd0tFpNehomYRpskevGf6uvBKTb/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/19pkVtyd0tFpNehomYRpskevGf6uvBKTb/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="https://drive.google.com/file/d/156UKwuWjQecm72HFZot6ZlX9oxJICgQv/view" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/tgangwani/QDAgents" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Tanmay Gangwani (University of Illinois, Urbana Champaign)*; Jian Peng (University of Illinois at Urbana-Champaign); Yuan Zhou (UIUC)**
@@ -30,3 +30,4 @@ Quality-Diversity (QD) is a concept from Neuroevolution with some intriguing app
 #### Reviews
 
 #### Rebuttal
+

@@ -9,12 +9,12 @@ parent: Tuesday
 supp: 
 code: https://github.com/ajaytanwani/DIRL
 youtubeId: 
+pdf: https://drive.google.com/file/d/1pWcLD07dhLrtsJwhArg6w6AYfuYmSSpb/view
 ---
 
 # DIRL: Domain-Invariant Representation Learning for Sim-to-Real Transfer
 
-[<i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF ](https://drive.google.com/file/d/1pWcLD07dhLrtsJwhArg6w6AYfuYmSSpb/view){: .btn .btn-blue } {% if page.supp %} [<i class="fa fa-file-text-o" aria-hidden="true"></i> Supplementary ]({{ page.supp }}){: .btn .btn-green } {% endif %} {% if page.code %} [<i class="fa fa-github" aria-hidden="true"></i> Code]({{ page.code }}){: .btn .btn-red }
-{% endif %}
+<a href="https://drive.google.com/file/d/1pWcLD07dhLrtsJwhArg6w6AYfuYmSSpb/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="https://github.com/ajaytanwani/DIRL" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Ajay Tanwani (UC Berkeley)***
@@ -30,3 +30,4 @@ Generating large-scale synthetic data in simulation is a feasible alternative to
 #### Reviews
 
 #### Rebuttal
+
