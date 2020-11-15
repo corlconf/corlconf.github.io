@@ -8,19 +8,19 @@ grand_parent: All Papers
 parent: Tuesday
 supp: 
 code: 
-youtubeId: 
+youtube_id: PQlWx8AmoAs
 pdf: https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view
 ---
 
 # DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning
 
-<a href="https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
+<a href="https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Chiho Choi (Honda Research Institute US)*; Srikanth Malla (Honda Research Institute); Abhishek Patil (Hilti Inc); Joon Hee Choi (Sungkyunkwan University)**
 
 #### Interactive Session
-*2020-11-17, 11:50 - 12:20 PST*
+*2020-11-17, 11:50 - 12:20 PST* 
 
 #### Abstract
 We propose a Deep RObust Goal-Oriented trajectory prediction Network (DROGON) for accurate vehicle trajectory prediction by considering behavioral intentions of vehicles in traffic scenes. Our main insight is that the behavior
@@ -32,9 +32,11 @@ distributions of intentional goals based on the inferred relations; and (iii) be
 reasoning where we reason about the behaviors of vehicles as trajectories conditioned on the intentions. To this end, we extend the proposed framework to the pedestrian trajectory prediction task, showing the potential applicability toward
 general trajectory prediction.
 
-#### Video 
+#### Video
+{% if page.youtube_id %}
+{% include youtubePlayer.html id=page.youtube_id %}
+{% endif %}
 
-#### Reviews
-
-#### Rebuttal
+#### Reviews and Rebuttal
+<a href="https://drive.google.com/file/d/1ZHmrBDQVyB5Gz40vUOEvMq0cHZPS1P2p/view" target="_blank" rel="noopener noreferrer" class="btn btn-purple"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Reviews & Rebuttal </a>
 

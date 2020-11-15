@@ -8,19 +8,19 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: 
-youtubeId: 
+youtube_id: 
 pdf: https://drive.google.com/file/d/1yfQSu1JA_s5fhwQ3DmcoHy6gecegqQwh/view
 ---
 
 # Robot Action Selection Learning via Layered Dimension Informed Program Synthesis
 
-<a href="https://drive.google.com/file/d/1yfQSu1JA_s5fhwQ3DmcoHy6gecegqQwh/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
+<a href="https://drive.google.com/file/d/1yfQSu1JA_s5fhwQ3DmcoHy6gecegqQwh/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Jarrett Holtz (Univ of Texas)*; Arjun Guha (Northeastern University); Joydeep Biswas (University of Texas at Austin)**
 
 #### Interactive Session
-*2020-11-18, 11:50 - 12:20 PST*
+*2020-11-18, 11:50 - 12:20 PST* 
 
 #### Abstract
 Action selection policies (ASPs), used to compose low-level robot
@@ -40,9 +40,11 @@ LDIPS 1) can synthesize effective ASPs for robot soccer and autonomous driving d
 comparable NN representation, and 3) can repair the synthesized ASPs with only
 a small number of corrections when transferring from simulation to real robots.
 
-#### Video 
+#### Video
+{% if page.youtube_id %}
+{% include youtubePlayer.html id=page.youtube_id %}
+{% endif %}
 
-#### Reviews
-
-#### Rebuttal
+#### Reviews and Rebuttal
+<a href="https://drive.google.com/file/d/1HSB3mnv7C3u1HWFS1k529UTDblBBHwbh/view" target="_blank" rel="noopener noreferrer" class="btn btn-purple"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Reviews & Rebuttal </a>
 
