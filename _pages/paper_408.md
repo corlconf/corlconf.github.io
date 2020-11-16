@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1JdOIxUzygGzleIAhG9Oxgpom41iZ5Yvp/view
 **Marcus Pereira (Georgia Institute  Technology)*; Ziyi Wang (Georgia Institute of Technology); Ioannis Exarchos (Stanford University); Evangelos Theodorou (Georgia Institute of Technology)**
 
 #### Interactive Session
-*2020-11-17, 11:50 - 12:20 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESN1J8FOKTQIWLMB" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:50 - 12:20 PST </em></a>
 
 #### Abstract
 This paper introduces a new formulation for stochastic optimal control and stochastic  dynamic  optimization that ensures safety with respect to state and control constraints.  The proposed  methodology brings together concepts such as  Forward-Backward Stochastic Differential Equations,  Stochastic  Barrier Functions, Differentiable Convex Optimization and Deep Learning.  Using the aforementioned concepts, a Neural Network architecture is designed for safe trajectory optimization in which learning can be performed in  an end-to-end fashion. Simulations are performed on three systems to show the efficacy of the proposed methodology. 

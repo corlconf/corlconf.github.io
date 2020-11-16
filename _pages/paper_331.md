@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1yfQSu1JA_s5fhwQ3DmcoHy6gecegqQwh/view
 **Jarrett Holtz (Univ of Texas)*; Arjun Guha (Northeastern University); Joydeep Biswas (University of Texas at Austin)**
 
 #### Interactive Session
-*2020-11-18, 11:50 - 12:20 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESCA9KH19MJ4Z9RY" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
 
 #### Abstract
 Action selection policies (ASPs), used to compose low-level robot

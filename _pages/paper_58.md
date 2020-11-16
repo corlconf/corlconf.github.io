@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1jzvkir7oheEpyGkApdf-tps-HRmezXX9/view
 **Tai Wang (The Chinese University of Hong Kong)*; Xinge Zhu (The Chinese University of Hong Kong); Dahua Lin (The Chinese University of Hong Kong)**
 
 #### Interactive Session
-*2020-11-16, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESOZL15JH56A2JOY" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 LiDAR is an important method for autonomous driving systems to sense the environment. The point clouds obtained by LiDAR typically exhibit sparse and irregular distribution, thus posing great challenges to the detection of 3D objects, especially those that are small and distant. To tackle this difficulty, we propose Reconfigurable Voxels, a new approach to constructing representations from 3D point clouds. Specifically, we devise a biased random walk scheme, which adaptively covers each neighborhood with a fixed number of voxels based on the local spatial distribution and produces a representation by integrating the points in the chosen neighbors. We found empirically that this approach effectively improves the stability of voxel features, especially for sparse regions. Experimental results on multiple benchmarks, including nuScenes, Lyft, and KITTI, show that this new representation can remarkably improve the detection performance for small and distant objects, without incurring noticeable overhead cost

@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1MH8KV1kIVSzJ4pFU4tLV0iUP163NIxV1/view
 **Aniruddh Puranic (University of Southern California)*; Jyotirmoy Deshmukh (USC); Stefanos Nikolaidis (University of Southern California)**
 
 #### Interactive Session
-*2020-11-18, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESVCCI76FCDCHX4C" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 Learning-from-demonstrations is an emerging paradigm to obtain effective robot control policies for complex tasks via reinforcement learning without the need to explicitly design reward functions. However, it is susceptible to imperfections in demonstrations and also raises concerns of safety and interpretability in the learned control policies. To address these issues, we use Signal Temporal Logic to evaluate and rank the quality of demonstrations. Temporal logic-based specifications allow us to create non-Markovian rewards, and also define interesting causal dependencies between tasks such as sequential task specifications. We validate our approach through experiments on discrete-world and OpenAI Gym environments, and show that our approach outperforms the state-of-the-art Maximum Causal Entropy Inverse Reinforcement Learning.

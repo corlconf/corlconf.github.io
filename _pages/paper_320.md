@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1GZUE4tIE0umlEe0w6XPi6HiCyhNQ9loR/view
 **Martina Zambelli (DeepMind)*; Yusuf Aytar (DeepMind); Francesco Visin (Google DeepMind); Yuxiang Zhou (DeepMind); Raia Hadsell (Deepmind)**
 
 #### Interactive Session
-*2020-11-18, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESTW87GH1VOABOOX" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 The sense of touch is fundamental in several manipulation tasks, but rarely used in robot manipulation. In this work we tackle the problem of learning rich touch features from cross-modal self-supervision. We evaluate them identifying objects and their properties in a few-shot classification setting. Two new datasets are introduced using a simulated anthropomorphic robotic hand equipped with tactile sensors on both synthetic and daily life objects. Several self-supervised learning methods are benchmarked on these datasets, by evaluating few-shot classification on unseen objects and poses. Our experiments indicate that cross-modal self-supervision effectively improves touch representation, and in turn has great potential to enhance robot manipulation skills.

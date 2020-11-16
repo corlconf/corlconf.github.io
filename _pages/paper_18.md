@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view
 **Chiho Choi (Honda Research Institute US)*; Srikanth Malla (Honda Research Institute); Abhishek Patil (Hilti Inc); Joon Hee Choi (Sungkyunkwan University)**
 
 #### Interactive Session
-*2020-11-17, 11:50 - 12:20 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES35XTHTPVUNNY6K" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:50 - 12:20 PST </em></a>
 
 #### Abstract
 We propose a Deep RObust Goal-Oriented trajectory prediction Network (DROGON) for accurate vehicle trajectory prediction by considering behavioral intentions of vehicles in traffic scenes. Our main insight is that the behavior

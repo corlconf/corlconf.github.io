@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1gGAAlGw9akNdZioCWQBYWBHCa3sm3kVe/view
 **Emmanuel Pignat (Idiap Research Institute and EPFL)*; Hakan Girgin (Idiap Research Institute); Sylvain Calinon (Idiap Research Institute)**
 
 #### Interactive Session
-*2020-11-16, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES3EVNGSVL1EXL6N" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 In learning from demonstrations, many generative models of trajectories make simplifying assumptions of independence. Correctness is sacrificed in the name of tractability and speed of the learning phase. 

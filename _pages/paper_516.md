@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1vp_lTEafCyMiF2z2jyB0NTYuWH45x6R4/view
 **Florian Voigt (Technical University of Munich)*; Lars Johannsmeier (Technical University of Munich); Sami Haddadin (Technical University of Munich)**
 
 #### Interactive Session
-*2020-11-17, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESB5NRJOG1GDWNJD" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 In this paper we apply a multi-level structure to robotic manipulation learning. It consists of a hybrid dynamical system we denote skill and a parameter learning layer that leverages the underlying structure to simplify the problem at hand. For the learning layer we introduce a novel algorithm based on the idea of learning to partition the parameter solution space to quickly and efficiently find good and robust solutions to complex manipulation problems. In a benchmark comparison we show a significant performance increase compared with other black-box optimization algorithms such as HiREPS and particle swarm optimization. Furthermore, we validate and compare our approach on a very hard real-world manipulation problem, namely inserting a key into a lock, with state-of-the-art deep reinforcement learning.

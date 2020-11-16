@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1X67-j0xG-92MDLvv7w8FHGXrIdkGmy-8/view
 **Samuel Pfrommer (University of Pennsylvania); Mathew Halm (University of Pennsylvania)*; Michael Posa (University of Pennsylvania)**
 
 #### Interactive Session
-*2020-11-16, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESDKK6NB9PPDRMVU" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 Common methods for learning robot dynamics assume motion is continuous, causing unrealistic model predictions for systems undergoing discontinuous impact and stiction behavior. In this work, we resolve this conflict with a smooth, implicit encoding of the structure inherent to contact-induced discontinuities. Our method, ContactNets, learns parameterizations of inter-body signed distance and contact-frame Jacobians, a representation that is compatible with many simulation, control, and planning environments for robotics. We furthermore circumvent the need to differentiate through stiff or non-smooth dynamics with a novel loss function inspired by the principles of complementarity and maximum dissipation. Our method can predict realistic impact, non-penetration, and stiction when trained on 60 seconds of real-world data.

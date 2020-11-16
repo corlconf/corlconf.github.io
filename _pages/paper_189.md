@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view
 **Hang Zhao (Waymo)*; Jiyang Gao (Waymo); Tian Lan (Waymo); Chen Sun (Google); Ben Sapp (Waymo); Balakrishnan Varadarajan (Google Research); Yue Shen (Waymo, LLC); Yi Shen (Waymo); Yuning Chai (Waymo); Cordelia Schmid (Google); Congcong Li (Waymo); Dragomir Anguelov (Waymo)**
 
 #### Interactive Session
-*2020-11-18, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESSZK2MQPZQOTG00" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 Predicting the future behavior of moving agents is essential for real world applications. It is challenging as the intent of the agent and the corresponding behavior is unknown and intrinsically multimodal. Our key insight is that for prediction within a moderate time horizon, the future modes can be effectively captured by a set of target states. This leads to our target-driven trajectory prediction (TNT) framework. TNT has three stages which are trained end-to-end. It

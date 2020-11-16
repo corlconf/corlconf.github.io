@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1DHcWIcLQpJAozpHQT1XRzkNP2MR3Ilja/view
 **Meet Shah (Uber ATG)*; Zhiling Huang (Uber ATG); Ankit Laddha (Uber); Matthew Langford (UberATG); Blake Barber (Uber ATG); sida zhang (Uber); Carlos Vallespi-Gonzalez (Uber); Raquel Urtasun (Uber ATG)**
 
 #### Interactive Session
-*2020-11-17, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESER5YG1KCZWTQH4" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 In this paper, we present LiRaNet, a novel end-to-end trajectory prediction method which utilizes radar sensor information along with widely used lidar and HD maps. Automotive radar provides rich, complementary information, allowing for longer range vehicle detection as well as instantaneous radial velocity measurements. However, there are factors that make the fusion of lidar and radar information challenging, such as the relatively low angular resolution of radar measurements, their sparsity and the lack of exact time synchronization with lidar. To overcome these challenges, we propose an efficient spatio-temporal radar feature extraction scheme which achieves state-of-the-art performance on multiple large-scale datasets. Further, by incorporating radar information, we show a 52% reduction in prediction error for objects with high acceleration and a 16% reduction in prediction error for objects at longer range.

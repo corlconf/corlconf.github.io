@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1MYWfq9d2tpJuRwFFhzUjZf-mhgQGdB_h/view
 **Sean Segal (Uber ATG)*; Eric Kee (Uber ATG); Wenjie Luo (University of Toronto); Abbas Sadat (Uber ATG); Ersin Yumer (Uber ATG); Raquel Urtasun (Uber ATG)**
 
 #### Interactive Session
-*2020-11-16, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESB7X73PHEG0BN0Q" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 In this paper, we tackle the problem of spatio-temporal tagging of self-driving scenes from raw sensor data. Our approach learns a universal embedding for all tags, enabling efficient tagging of many attributes and faster learning of new attributes with limited data. Importantly, the embedding is spatio-temporally aware, allowing the model to naturally output spatio-temporal tag values. Values can then be pooled over arbitrary regions, in order to, for example, compute the pedestrian density in front of the SDV, or determine if a car is blocking another car at a 4-way intersection. We demonstrate the effectiveness of our approach on a new large scale self-driving dataset, SDVScenes, containing 15 attributes relating to vehicle and pedestrian density, the actions of each actor, the speed of each actor, interactions between actors, and the topology of the road map. 

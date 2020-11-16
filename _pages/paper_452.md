@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1aObrQt-Y2elnex4L01v3rwPLH6_Tin7q/view
 **Boshen Niu (Carnegie Mellon University); Chenxi Wang (Carnegie Mellon University); Changliu Liu (Carnegie Mellon University)***
 
 #### Interactive Session
-*2020-11-18, 11:50 - 12:20 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESZ945ZB6ZJQHNAQ" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
 
 #### Abstract
 Policy learning for delicate industrial insertion tasks (e.g., PC board assembly) is challenging. This paper considers two major problems: how to learn a diversified policy (instead of just one average policy) that can efficiently handle different workpieces with minimum amount of training data, and how to handle defects of workpieces during insertion. To address the problems, we propose tolerance-guided policy learning. 

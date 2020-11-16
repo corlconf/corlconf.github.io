@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1pyzHYRa0iRYSh-TTZLJ2CF2YlbO7BUqq/view
 **Vaisakh Shaj (Karlsruhe Institute Of Technology)*; Philipp Becker (Karlsruhe Institute of Technology (KIT)); Dieter Büchler (MPI for Intelligent Systems Tübingen); Harit Pandya (University of Lincoln); Niels van Duijkeren (Bosch Corporate Research); C. James  Taylor (Lancaster University); Marc Hanheide (University of Lincoln); Gerhard Neumann (KIT)**
 
 #### Interactive Session
-*2020-11-18, 11:10 - 11:40 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESMZ5M08EMK8PM3J" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:10 - 11:40 PST </em></a>
 
 #### Abstract
 Estimating accurate forward and inverse dynamics models is a crucial component of model-based control for sophisticated robots such as robots driven by hydraulics, artificial muscles, or robots dealing with different contact situations.

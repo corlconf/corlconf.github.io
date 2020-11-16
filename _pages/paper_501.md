@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/194fCa0jSmn2UaP_OTgawEo8IvwmE8DZz/view
 **Kartik Paigwar (Indian Institute of Science)*; Lokesh Krishna (IISc); sashank tirumala (IISC Bangalore); naman khetan (IISc); aditya varma (iisc); ashish joglekar (IISc); Shalabh Bhatnagar (Indian Institute of Science (IISc) Bangalore); Ashitava Ghosal (Indian Institute of Science); Bharadwaj Amrutur (IISc Bangalore); Shishir Kolathaya (IISc)**
 
 #### Interactive Session
-*2020-11-17, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESFZXMEKDVIUIRV6" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 In this paper, with a view toward fast deployment of locomotion gaits in low-cost hardware, we use a linear policy for realizing end-foot trajectories in the quadruped robot, Stoch 2. In particular, the parameters of the end-foot trajectories are shaped via a linear feedback policy that takes the torso orientation and the terrain slope as inputs. The corresponding desired joint angles are obtained via an inverse kinematics solver and tracked via a PID control law. Augmented Random Search, a model-free and a gradient-free learning algorithm is used to train this linear policy. Simulation results show that the resulting walking is robust to terrain slope variations and external pushes. This methodology is not only computationally light-weight but also uses minimal sensing and actuation capabilities in the robot, thereby justifying the approach.

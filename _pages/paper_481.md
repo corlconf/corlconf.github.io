@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/12UXSytPrxJH6yleXjyujw-sLMb0g_2Kg/view
 **Avi Singh (UC Berkeley)*; Albert Yu (UC Berkeley); Jonathan Yang (UC Berkeley); Jesse Zhang (UC Berkeley); Aviral Kumar (UC Berkeley); Sergey Levine (UC Berkeley)**
 
 #### Interactive Session
-*2020-11-16, 12:30 - 13:00 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESPUFLKXH9F096FG" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 12:30 - 13:00 PST </em></a>
 
 #### Abstract
 Reinforcement learning has been applied to a wide variety of robotics problems, but most of such applications involve collecting data from scratch for each new task. Since the amount of robot data we can collect for any single task is limited by time and cost considerations, the learned behavior is typically narrow: the policy can only execute the task in a handful of scenarios that it was trained on. What if there was a way to incorporate a large amount of prior data, either from previously solved tasks or from unsupervised or undirected environment interaction, to extend and generalize learned behaviors? 

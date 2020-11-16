@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1-yrBea9Ra9sYOEjG8iDQXgzqvB97u-vK/view
 **Robert Lee (Queensland University of Technology)*; Daniel Ward (The University of Queensland); Vibhavari Dasagi (Queensland University of Technology); Akansel Cosgun (Monash University); Juxi Leitner (QUT); Peter Corke (Queensland University of Technology)**
 
 #### Interactive Session
-*2020-11-18, 11:50 - 12:20 PST* 
+<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESPC9DRQK9B5B28R" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
 
 #### Abstract
 Manipulating deformable objects, such as fabric, is a long standing problem in robotics, with state estimation and control posing a significant challenge for traditional methods. In this paper, we show that it is possible to learn fabric folding skills in only an hour of self-supervised real robot experience, without human supervision or simulation. Our approach relies on fully convolutional networks and the manipulation of visual inputs to exploit learned features, allowing us to create an expressive goal-conditioned pick and place policy that can be trained efficiently with real world robot data only. Folding skills are learned with only a sparse reward function and thus do not require reward function engineering, merely an image of the goal configuration. We demonstrate our method on a set of towel-folding tasks, and show that our approach is able to discover sequential folding strategies, purely from trial-and-error. We achieve state-of-the-art results without the need for demonstrations or simulation, used in prior approaches.
