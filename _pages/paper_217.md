@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/19BfQlYirxv0iDDh5G8wcy93WUPSTrkzt/view
 **Cristina Pinneri (Max Planck Institute for Intelligent Systems)*; Shambhuraj Sawant (Max Planck Institute for Intelligent Systems); Sebastian Blaes (Max Planck Institute for Intelligent Systems); Jan Achterhold (Max Planck Institute for Intelligent Systems); Joerg Stueckler (Max-Planck-Institute for Intelligent Systems); Michal Rolinek (Max Planck Institute for Intelligent Systems); Georg Martius (Max Planck Institute for Intelligent Systems)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESYMYZ7X2S28PTQA" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:10 - 11:40 PST </em></a>
+<em>2020-11-16, 11:10 - 11:40 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESYMYZ7X2S28PTQA" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Trajectory optimizers for model-based reinforcement learning, such as the  Cross-Entropy Method (CEM), can yield compelling results even in high-dimensional control tasks and sparse-reward environments.

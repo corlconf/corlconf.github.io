@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1LlGrYCXlNJYRc7XzN_3CwQd_QdmDLb-F/view
 **Roland Hafner (Google DeepMind)*; Tim Hertweck (DeepMind); Philipp Kloeppner (TU Darmstadt); Michael Bloesch (Google); Michael Neunert (Google DeepMind); Markus Wulfmeier (DeepMind); Saran  Tunyasuvunakool (DeepMind); Nicolas Heess (DeepMind); Martin Riedmiller (DeepMind)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES4Q14VY9MLHAI7P" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
+<em>2020-11-18, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES4Q14VY9MLHAI7P" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Modern Reinforcement Learning (RL) algorithms promise to solve difficult motor control problems directly from raw sensory inputs. Their attraction is due in part to the fact that they can represent a general class of methods that allow to learn a solution with a reasonably set reward and minimal prior knowledge, even in situations where it is difficult or expensive for a human expert. For RL to truly make good on this promise, however, we need algorithms and learning setups that can work across a broad range of problems with minimal problem specific adjustments or engineering. In this paper, we study this idea of generality in the locomotion domain. We develop a learning framework that can learn sophisticated locomotion behaviour for a wide spectrum of legged robots, such as bipeds, tripeds, quadrupeds and hexapods, including wheeled variants.

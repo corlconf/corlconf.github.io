@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1EKg07pBCdlMUQD4oAx75lDr6hAYTzXuW/view
 **Bruno Ferreira de Brito (Delft University of Technology)*; Hai Zhu (Delft University of Technology); Wei Pan (TUDelft); Javier Alonso-Mora (Delft University of Technology)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESLENUBE9REPCW9J" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 12:30 - 13:00 PST </em></a>
+<em>2020-11-16, 12:30 - 13:00 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESLENUBE9REPCW9J" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 	Prediction of human motions is key for safe navigation of autonomous robots among humans. In cluttered environments, several motion hypotheses may exist for a pedestrian, due to its interactions with the environment and other pedestrians.

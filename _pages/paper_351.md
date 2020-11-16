@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/18MBP2D4BgOAsKjEW9DEqRb8v2ugx1nwQ/view
 **Kevin  Chen (Georgia Institute of Technology); Nithin Shrivatsav Srikanth (Georgia Institute of Technology); David Kent (Georgia Institute of Technology)*; Harish Ravichandar (Georgia Institute of Technology); Sonia Chernova (Georgia Institute of Technology	)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES8P6MJ8SWM7LBC0" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 12:30 - 13:00 PST </em></a>
+<em>2020-11-17, 12:30 - 13:00 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SES8P6MJ8SWM7LBC0" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 We address the problem of learning Hierarchical Task Networks (HTNs) from unannotated task demonstrations, while retaining action execution preferences present in the demonstration data.  We show that the problem of learning a complex HTN structure can be made analogous to the problem of series/parallel reduction of resistor networks, a foundational concept in Electrical Engineering.  Based on this finding, we present the CircuitHTN algorithm, which constructs an action graph representing the demonstrations, and then reduces the graph following rules for reducing combination electrical circuits. Evaluation on real-world household kitchen tasks shows that CircuitHTN outperforms prior work in task structure and preference learning, successfully handling large data sets and exhibiting similar action selection preferences as the demonstrations.

@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1_m8xORZEBuShlZFL3hbT0upxVyxyjC-q/view
 **Yutao Han (Cornell University)*; Jacopo Banfi (Cornell University); Mark Campbell (Cornell University)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESUNQMHTY3S1PNEP" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:50 - 12:20 PST </em></a>
+<em>2020-11-16, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESUNQMHTY3S1PNEP" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 This paper presents a novel framework for planning paths in maps containing unknown spaces, such as from occlusions. Our approach takes as input a semantically-annotated point cloud, and leverages an image inpainting neural network to generate a reasonable model of unknown space as free or occupied. Our validation campaign shows that it is possible to greatly increase the performance of standard pathfinding algorithms which adopt the general optimistic assumption of treating unknown space as free.

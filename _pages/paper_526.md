@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1C9q14pUZPMUxfntx9Kg1xoiL6nRr332b/view
 **Bryan Chen (UC Berkeley)*; Alexander Sax (UC Berkeley); Francis Lewis (Stanford); Iro Armeni (Stanford University); Silvio Savarese (Stanford University); Amir Zamir (Swiss Federal Institute of Technology (EPFL)); Jitendra Malik (University of California at Berkeley); Lerrel Pinto (NYU/Berkeley)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESHT52Q2H84JVI71" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:10 - 11:40 PST </em></a>
+<em>2020-11-16, 11:10 - 11:40 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESHT52Q2H84JVI71" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Vision-based robotics often factors the control loop into separate components for perception and control. Conventional perception components usually extract hand-engineered features from the visual input that are then used by the control component in an explicit manner. In contrast, recent advances in deep RL make it possible to learn these features end-to-end during training, but the final result is often brittle, fails unexpectedly under minuscule visual shifts, and comes with a high sample complexity cost.

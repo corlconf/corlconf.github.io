@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1RATFBOenj9A0gPCHq6z74u03l0WsS8Kg/view
 **Danfei Xu (Stanford University)*; Misha Denil (DeepMind)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESCPGKZJMRI55PZA" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:50 - 12:20 PST </em></a>
+<em>2020-11-17, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESCPGKZJMRI55PZA" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Learning reward functions from data is a promising path towards achieving scalable Reinforcement Learning (RL) for robotics. However, a major challenge in training agents from learned reward models is that the agent can learn to exploit errors in the reward model to achieve high reward behaviors that do not correspond to the intended task. These reward delusions can lead to unintended and even dangerous behaviors. On the other hand, adversarial imitation learning frameworks (Ho et al., 2016) tend to suffer the opposite problem, where the discriminator learns to trivially distinguish agent and expert behavior, resulting in reward models that produce low reward signal regardless of the input state.

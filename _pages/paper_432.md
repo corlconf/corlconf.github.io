@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1_uu4RJbAdYU_4Is_gSVTCO8KA77Mwii1/view
 **Neha Das (Facebook AI Research)*; Sarah Bechtle (Max Planck Institute for Intelligent Systems); Todor Davchev (University of Edinburgh); Dinesh Jayaraman (University of Pennsylvania); Akshara Rai (Facebook); Franziska Meier (Facebook AI Research)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESEZR8Q4IRVWNMEM" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
+<em>2020-11-18, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESEZR8Q4IRVWNMEM" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Scaling model-based inverse reinforcement learning (IRL) to real robotic manipulation tasks with unknown dynamics remains an open problem. The key challenges lie in learning good dynamics models, developing algorithms that scale to high-dimensional state-spaces and being able to learn from both visual and proprioceptive demonstrations. In this work, we present a gradient-based inverse reinforcement learning framework that utilizes a pre-trained visual dynamics model to learn cost functions when given only visual human demonstrations. The learned cost functions are then used to reproduce the demonstrated behavior via visual model predictive control. We evaluate our framework on hardware on two basic object manipulation tasks.

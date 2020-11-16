@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1UlA5pxn6hE2zGdkCGnP25jxPVx-GhplA/view
 **Paul Duckworth (University of Oxford)*; Bruno Lacerda (University of Oxford); Nick Hawes (Oxford Robotics Institute)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESVUZKJKD2LGFFL7" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 11:50 - 12:20 PST </em></a>
+<em>2020-11-17, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESVUZKJKD2LGFFL7" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Uncertain, time-varying dynamic environments are ubiquitous in real world robotics. We propose an online planning framework to address time-bounded missions under time-varying dynamics, where those dynamics affect the duration and outcome of actions. We pose such problems as semi-Markov decision processes, where actions have a duration distributed according to an a priori unknown time-varying function. Our approach maintains a belief over this function, and time is propagated through a discrete search tree that efficiently maintains a subset of reachable states. We show improved mission performance on a marine vehicle simulator acting under real-world spatio-temporal ocean currents, and demonstrate the ability to solve co-safe linear temporal logic problems, which are more complex than the reachability problems tackled in previous approaches.

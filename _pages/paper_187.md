@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/185kNH9zATbt95j3mTCuM-2rcy30TWbFq/view
 **Xingye Da (Nvidia)*; Zhaoming Xie (University of British Columbia); David Hoeller (Nvidia); Byron Boots (Nvidia); Anima Anandkumar (); Yuke Zhu (University of Texas - Austin); Buck Babich (NVIDIA); Animesh Garg (University of Toronto, Vector Institute, Nvidia)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESNOLUJIPYQLQN5A" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:50 - 12:20 PST </em></a>
+<em>2020-11-16, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESNOLUJIPYQLQN5A" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 We present a hierarchical framework that combines model-based control and reinforcement learning (RL) to synthesize robust controllers for a quadruped (the Unitree Laikago). The system consists of a high-level controller that learns to choose from a set of primitives in response to changes in the environment and a low-level controller that utilizes an established control method to robustly execute the primitives. Our framework learns a controller that can adapt to challenging environmental changes on the fly, including novel scenarios not seen during training. The learned controller is up to 85~percent more energy efficient and is more robust compared to baseline methods. We also deploy the controller on a physical robot without any randomization or adaptation scheme.

@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1mKL5JjbXxOJ-SMIEHEXO5Zps9l7-2Kr7/view
 **Mohit Sharma (Carnegie Mellon University)*; Oliver Kroemer (Carnegie Mellon University)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESJ0HA0IT1FYO3SH" target="_blank" rel="noopener noreferrer"><em>2020-11-16, 11:10 - 11:40 PST </em></a>
+<em>2020-11-16, 11:10 - 11:40 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESJ0HA0IT1FYO3SH" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 To determine if a skill can be executed in any given environment, a robot needs to learn the preconditions for the skill. As robots begin to operate in dynamic and unstructured environments, these precondition models will need to generalize to variable number of objects with different shapes and sizes. In this work, we focus on learning precondition models for manipulation skills in unconstrained environments.

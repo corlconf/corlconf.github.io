@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1W7Y0yPGBICpADbm79xQ1-PL2JDBbkTdu/view
 **Wenshan Wang (CMU)*; Yaoyu Hu (Carnegie Mellon University); Sebastian Scherer (Carnegie Mellon University)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESBX6ALWYRN1KA0X" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
+<em>2020-11-18, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESBX6ALWYRN1KA0X" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 We present the first learning-based visual odometry (VO) model, which generalizes to multiple datasets and real-world scenarios and outperforms geometry-based methods in challenging scenes. We achieve this by leveraging the SLAM dataset TartanAir, which provides a large amount of diverse synthetic data in challenging environments. Furthermore, to make our VO model generalize across datasets, we propose an up-to-scale loss function and incorporate the camera intrinsic parameters into the model. Experiments show that a single model, TartanVO, trained only on synthetic data, without any finetuning, can be generalized to real-world datasets such as KITTI and EuRoC, demonstrating significant advantages over the geometry-based methods on challenging trajectories. Our code is available at <a href="https://github.com/castacks/tartanvo" target="_blank">https://github.com/castacks/tartanvo</a>.

@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1W9mC4CWT1tFJGWZC0lKeDwFLnfIifxjM/view
 **Nicholas Boffi (Harvard University); Stephen Tu (Google)*; Nikolai Matni (University of Pennsylvania); Jean-Jacques Slotine (MIT); Vikas Sindhwani (Google)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESH4OLNTI0XZAPAB" target="_blank" rel="noopener noreferrer"><em>2020-11-17, 12:30 - 13:00 PST </em></a>
+<em>2020-11-17, 12:30 - 13:00 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESH4OLNTI0XZAPAB" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 Many existing tools in nonlinear control theory for establishing stability or safety of a dynamical system can be distilled to the construction of a certificate function which guarantees a desired property. However, algorithms for synthesizing certificate functions typically require a closed-form analytical expression of the underlying dynamics, which rules out their use on many modern robotic platforms. To circumvent this issue, we develop algorithms for learning certificate functions only from trajectory data. We establish bounds on the generalization error - the probability that a certificate will not certify a new, unseen trajectory - when learning from trajectories, and we convert such generalization error bounds into global stability guarantees. We demonstrate empirically that certificates for complex dynamics can be efficiently learned, and that the learned certificates can be used for downstream tasks such as adaptive control.

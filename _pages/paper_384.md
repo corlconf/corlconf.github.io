@@ -20,7 +20,7 @@ pdf: https://drive.google.com/file/d/1vUtrHNLrQUTDw-DdwH8oLGbpduxrAbai/view
 **Rasmus Haugaard (University of Southern Denmark)*; Jeppe Langaa (University of Southern Denmark); Christoffer Sloth (University of Southern Denmark); Anders Buch (University of Southern Denmark)**
 
 #### Interactive Session
-<a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESFBEGXGSEQGSEYM" target="_blank" rel="noopener noreferrer"><em>2020-11-18, 11:50 - 12:20 PST </em></a>
+<em>2020-11-18, 11:50 - 12:20 PST </em> | <a href="https://pheedloop.com/corl2020/virtual/?page=sessions&section=SESFBEGXGSEQGSEYM" target="_blank" rel="noopener noreferrer"> PheedLoop Session <i class="fa fa-external-link" aria-hidden="true"></i> </a> 
 
 #### Abstract
 This paper demonstrates a visual servoing method which is robust towards uncertainties related to system calibration and grasping, while significantly reducing the peg-in-hole time compared to classical methods and recent attempts based on deep learning. The proposed visual servoing method is based on peg and hole point estimates from a deep neural network in a multi-cam setup, where the model is trained on purely synthetic data. Empirical results show that the learnt model generalizes to the real world, allowing for higher success rates and lower cycle times than existing approaches.
