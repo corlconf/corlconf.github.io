@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtube_id: 2PLcvgv_EzM
-pdf: https://drive.google.com/file/d/1mGjO7dQcyxXhRbekCRVeRiRXRmho-i3W/view
+pdf: https://drive.google.com/file/d/1Gwd2P1div60UHxHa3eq373ZDrwbzkQzG/view
 ---
 
 # Map-Adaptive Goal-Based Trajectory Prediction
 
-<a href="https://drive.google.com/file/d/1mGjO7dQcyxXhRbekCRVeRiRXRmho-i3W/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
+<a href="https://drive.google.com/file/d/1Gwd2P1div60UHxHa3eq373ZDrwbzkQzG/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Lingyao Zhang (Uber ATG)*; Po-Hsun Su (UATC LLC); Jerrick Hoang (Uber ATG); Galen Clark  Haynes (Uber ATC); Micol Marchetti-Bowick (Uber ATG)**

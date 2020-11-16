@@ -9,12 +9,12 @@ parent: Monday
 supp: 
 code: 
 youtube_id: Fq4cjbJBk-8
-pdf: https://drive.google.com/file/d/1CPzLxi8YazDSvQI13t7WK5N9hMCTC5ry/view
+pdf: https://drive.google.com/file/d/1mKL5JjbXxOJ-SMIEHEXO5Zps9l7-2Kr7/view
 ---
 
 # Relational Learning for Skill Preconditions
 
-<a href="https://drive.google.com/file/d/1CPzLxi8YazDSvQI13t7WK5N9hMCTC5ry/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
+<a href="https://drive.google.com/file/d/1mKL5JjbXxOJ-SMIEHEXO5Zps9l7-2Kr7/view" target="_blank" rel="noopener noreferrer" class="btn btn-blue"><i class="fa fa-file-text-o" aria-hidden="true"></i> Paper PDF </a> {% if page.supp %}<a href="" target="_blank" rel="noopener noreferrer" class="btn btn-green"><i class="fa fa-file-text-o" aria-hidden="true"></i> Supplemental </a>{% endif %} {% if page.code %}<a href="" target="_blank" rel="noopener noreferrer" class="btn"><i class="fa fa-github" aria-hidden="true"></i> Code </a>{% endif %} 
 
 #### Authors
 **Mohit Sharma (Carnegie Mellon University)*; Oliver Kroemer (Carnegie Mellon University)**
