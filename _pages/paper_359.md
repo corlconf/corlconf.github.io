@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: 
 code: https://github.com/ethz-asl/vgn
-youtube_id: 
+youtube_id: BFjsTX3vEH8
 pdf: https://drive.google.com/file/d/14KKgyR-jiyyaDYzsPv7UpZaHmeVTakH9/view
 ---
 

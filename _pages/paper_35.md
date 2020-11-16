@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Tuesday
 supp: 
 code: https://github.com/columbia-robovision/dsr
-youtube_id: 
+youtube_id: da2yFpHG_iw
 pdf: https://drive.google.com/file/d/1DyOUmoza18MPjWaocOuLaUBQ363u8pAo/view
 ---
 

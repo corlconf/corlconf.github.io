@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: 
 code: https://github.com/emmanuelpignat/tf_robot_learning
-youtube_id: 
+youtube_id: Uf-ZLvWQkXM
 pdf: https://drive.google.com/file/d/1gGAAlGw9akNdZioCWQBYWBHCa3sm3kVe/view
 ---
 

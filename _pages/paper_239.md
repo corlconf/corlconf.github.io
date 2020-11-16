@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: 
 code: 
-youtube_id: 
+youtube_id: YF6URSdMAFg
 pdf: https://drive.google.com/file/d/1f8lSEXradEzDhdTVmngRj5gmDBC_sACv/view
 ---
 

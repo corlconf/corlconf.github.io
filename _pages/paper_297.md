@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: 
 code: https://github.com/MichiganCOG/RobotSlangBenchmark
-youtube_id: 
+youtube_id: m95GFgKCNvc
 pdf: https://drive.google.com/file/d/1VbIQOSifKFhyWwISUpunnTOAeL_WNrRX/view
 ---
 

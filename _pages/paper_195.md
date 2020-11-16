@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: https://drive.google.com/file/d/1UITHjhloH5cLvPylso0J9-vtZmePsc6M/view
 code: https://github.com/yh675/PlanningByImagining
-youtube_id: 
+youtube_id: 2D_Wu4vYlBg
 pdf: https://drive.google.com/file/d/1_m8xORZEBuShlZFL3hbT0upxVyxyjC-q/view
 ---
 

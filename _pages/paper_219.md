@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Monday
 supp: 
 code: https://github.com/nesl/Time-in-State-RL
-youtube_id: 
+youtube_id: rUTs2T_3A5Q
 pdf: https://drive.google.com/file/d/1ysPMP6AHp6s0Dj9FB5AE9UsHmSg41zBo/view
 ---
 
