@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Tuesday
 supp: 
 code: https://github.com/proroklab/adversarial_comms
-youtube_id: 
+youtube_id: SUDkRaj4FAI
 pdf: https://drive.google.com/file/d/1uyZ1tDggGPPXMm6zWyWDXd986IWOzHCx/view
 ---
 

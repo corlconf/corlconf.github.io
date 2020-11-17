@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Tuesday
 supp: 
 code: https://github.com/ajaytanwani/DIRL
-youtube_id: 
+youtube_id: opC-HjSxi9E
 pdf: https://drive.google.com/file/d/1pWcLD07dhLrtsJwhArg6w6AYfuYmSSpb/view
 ---
 

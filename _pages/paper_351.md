@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Tuesday
 supp: https://drive.google.com/file/d/1i2NWHoTT6Ws7YT6Hsb1u3Gii_oKzSyzZ/view
 code: https://github.com/GT-RAIL/circuit_htn
-youtube_id: 
+youtube_id: bLQ0ZZqtT0s
 pdf: https://drive.google.com/file/d/18MBP2D4BgOAsKjEW9DEqRb8v2ugx1nwQ/view
 ---
 
