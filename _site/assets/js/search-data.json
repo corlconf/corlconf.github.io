@@ -1,46 +1,70 @@
 {"0": {
+    "doc": "Award Nominees 🏆",
+    "title": " Best System Paper Award Nominees",
+    "content": ". | SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving by Ajay Tanwani | DIRL: Domain-Invariant Representation Learning for Sim-to-Real Transfer by Ming Zhou et al. | . ",
+    "url": "http://localhost:4000/awards#-best-system-paper-award-nominees",
+    "relUrl": "/awards#-best-system-paper-award-nominees"
+  },"1": {
+    "doc": "Award Nominees 🏆",
+    "title": " Best Paper Award Nominees",
+    "content": ". | Learning Latent Representations to Influence Multi-Agent Interaction by Annie Xie et al. | Guaranteeing Safety of Learned Perception Modules via Measurement-Robust Control Barrier Functions by Sarah Dean et al. | Learning from Suboptimal Demonstration via Self-Supervised Reward Regression by Letian Chen et al. | Safe Optimal Control Using Stochastic Barrier Functions and Deep Forward-Backward SDEs by Marcus A Pereira et al. | . ",
+    "url": "http://localhost:4000/awards#-best-paper-award-nominees",
+    "relUrl": "/awards#-best-paper-award-nominees"
+  },"2": {
+    "doc": "Award Nominees 🏆",
+    "title": " Best Paper Presentation Finalists",
+    "content": "To be announced on Wednesday, November 18th. ",
+    "url": "http://localhost:4000/awards#-best-paper-presentation-finalists",
+    "relUrl": "/awards#-best-paper-presentation-finalists"
+  },"3": {
+    "doc": "Award Nominees 🏆",
+    "title": "Award Nominees 🏆",
+    "content": " ",
+    "url": "http://localhost:4000/awards",
+    "relUrl": "/awards"
+  },"4": {
     "doc": "All Papers",
     "title": "All Papers",
-    "content": ". | Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching | Towards Autonomous Eye Surgery by Combining Deep Imitation Learning with Optimal Control | . ",
+    "content": ". | Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting | Learning a Decision Module by Imitating Driver’s Control Behaviors | . ",
     "url": "http://localhost:4000/all",
     "relUrl": "/all"
-  },"1": {
+  },"5": {
     "doc": "Home",
     "title": "📄 CoRL Paper Explorer",
     "content": "Welcome to the Corl 2020 Paper Explorer. | Search for a paper above (using any terms in the author, abstract or title). | See all papers that will be presented on a particular day to the left. | . ",
     "url": "http://localhost:4000/#-corl-paper-explorer",
     "relUrl": "/#-corl-paper-explorer"
-  },"2": {
+  },"6": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"3": {
+  },"7": {
     "doc": "Monday",
     "title": "Monday",
     "content": " ",
     "url": "http://localhost:4000/monday",
     "relUrl": "/monday"
-  },"4": {
-    "doc": "Towards Autonomous Eye Surgery by Combining Deep Imitation Learning with Optimal Control",
-    "title": "Towards Autonomous Eye Surgery by Combining Deep Imitation Learning with Optimal Control",
-    "content": "Paper PDF . Authors . Ji Woong Kim (Johns Hopkins University)*; Peiyao Zhang (Johns Hopkins University); Peter Gehlbach (Johns Hopkins Hospital,); Iulian Iordachita (The Johns Hopkins University); Marin Kobilarov (Johns Hopkins University) . Interactive Session . 2020-11-18, 11:10 - 11:40 PST | PheedLoop Session . Abstract . During retinal microsurgery, precise manipulation of the delicate retinal tissue is required for positive surgical outcome. However, accurate manipulation and navigation of surgical tools remain difficult due to a constrained workspace and the top-down view during the surgery, which limits the surgeon’s ability to estimate depth. To alleviate such difficulty, we propose to automate the tool-navigation task by learning to predict relative goal position on the retinal surface from the current tool-tip position. Given an estimated target on the retina, we generate an optimal trajectory leading to the predicted goal while imposing safety-related physical constraints aimed to minimize tissue damage. As an extended task, we generate goal predictions to various points across the retina to localize eye geometry and further generate safe trajectories within the estimated confines. Through experiments in both simulation and with several eye phantoms, we demonstrate that our framework can permit navigation to various points on the retina within 0.089mm and 0.118mm in xy error which is less than the human’s surgeon mean tremor at the tool-tip of 0.180mm. All safety constraints were fulfilled and the algorithm was robust to previously unseen eyes as well as unseen objects in the scene. Live video demonstration is available here: https://youtu.be/n5j5jCCelXk . Video . Reviews and Rebuttal . Reviews &amp; Rebuttal . ",
-    "url": "http://localhost:4000/paper_528/",
-    "relUrl": "/paper_528/"
-  },"5": {
-    "doc": "Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching",
-    "title": "Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching",
-    "content": "Paper PDF Code . Authors . Zexi Chen (Zhejiang University); Xuecheng Xu (Zhejiang University); Yue Wang (Zhejiang University)*; Rong Xiong (Zhejiang University) . Interactive Session . 2020-11-16, 12:30 - 13:00 PST | PheedLoop Session . Abstract . The crucial step for localization is to match the current observation to the map. When the two sensor modalities are significantly different, matching becomes challenging. In this paper, we present an end-to-end deep phase correlation network (DPCN) to match heterogeneous sensor measurements. In DPCN, the primary component is a differentiable correlation-based estimator that back-propagates the pose error to learnable feature extractors, which addresses the problem that there are no direct common features for supervision. In addition, it eliminates the exhaustive evaluation in some previous methods, improving efficiency. With the interpretable modeling, the network is light-weighted and promising for better generalization. We evaluate the system on both the simulation data and Aero-Ground Dataset which consists of heterogeneous sensor images and aerial images acquired by satellites or aerial robots. The results show that our method is able to match the heterogeneous sensor measurements, outperforming the comparative traditional phase correlation and other learning-based methods. Code is available at https://github.com/jessychen1016/DPCN. Video . Reviews and Rebuttal . Reviews &amp; Rebuttal . ",
-    "url": "http://localhost:4000/paper_530/",
-    "relUrl": "/paper_530/"
-  },"6": {
+  },"8": {
+    "doc": "Learning a Decision Module by Imitating Driver’s Control Behaviors",
+    "title": "Learning a Decision Module by Imitating Driver’s Control Behaviors",
+    "content": "Paper PDF Supplemental . Authors . Junning Huang (SenseTime Research); Sirui Xie (UCLA); Jiankai Sun (CUHK)*; Qiurui Ma (Hong Kong University of Science and Technology); Chunxiao Liu (SenseTime Research); Dahua Lin (The Chinese University of Hong Kong); Bolei Zhou (CUHK) . Interactive Session . 2020-11-16, 11:50 - 12:20 PST | PheedLoop Session . Abstract . Autonomous driving systems have a pipeline of perception, decision, planning, and control. The decision module processes information from the perception module and directs the execution of downstream planning and control modules. On the other hand, the recent success of deep learning suggests that this pipeline could be replaced by end-to-end neural control policies, however, safety cannot be well guaranteed for the data-driven neural networks. In this work, we propose a hybrid framework to learn neural decisions in the classical modular pipeline through end-to-end imitation learning. This hybrid framework can preserve the merits of the classical pipeline such as the strict enforcement of physical and logical constraints while learning complex driving decisions from data. To circumvent the ambiguous annotation of human driving decisions, our method learns high-level driving decisions by imitating low-level control behaviors. We show in the simulation experiments that our modular driving agent can generalize its driving decision and control to various complex scenarios where the rule-based programs fail. It can also generate smoother and safer driving trajectories than end-to-end neural policies. Demo and code are available at https://decisionforce.github.io/modulardecision/. Video . Reviews and Rebuttal . Reviews &amp; Rebuttal . ",
+    "url": "http://localhost:4000/paper_4/",
+    "relUrl": "/paper_4/"
+  },"9": {
+    "doc": "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    "title": "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    "content": "Paper PDF Code . Authors . Xinshuo Weng (Carnegie Mellon University)*; Jianren Wang (Carnegie Mellon University); Sergey Levine (UC Berkeley); Kris Kitani (Carnegie Mellon University); Nicholas Rhinehart (UC Berkeley) . Interactive Session . 2020-11-17, 12:30 - 13:00 PST | PheedLoop Session . Abstract . Many autonomous systems forecast aspects of the future in order to aid decision-making. For example, self-driving vehicles and robotic manipulation systems often forecast future object poses by first detecting and tracking objects. However, this detect-then-forecast pipeline is expensive to scale, as pose forecasting algorithms typically require labeled sequences of object poses, which are costly to obtain in 3D space. Can we scale performance without requiring additional labels? We hypothesize yes, and propose inverting the detect-then-forecast pipeline. Instead of detecting, tracking and then forecasting the objects, we propose to first forecast 3D sensor data (e.g., point clouds with 100k points) and then detect/track objects on the predicted point cloud sequences to obtain future poses, i.e., a forecast-then-detect pipeline. This inversion makes it less expensive to scale pose forecasting, as the sensor data forecasting task requires no labels. Part of this work’s focus is on the challenging first step - Sequential Pointcloud Forecasting (SPF), for which we also propose an effective approach, SPFNet. To compare our forecast-then-detect pipeline relative to the detect-then-forecast pipeline, we propose an evaluation procedure and two metrics. Through experiments on a robotic manipulation dataset and two driving datasets, we show that SPFNet is effective for the SPF task, our forecast-then-detect pipeline outperforms the detect-then-forecast approaches to which we compared, and that pose forecasting performance improves with the addition of unlabeled data. Our project website is http://www.xinshuoweng.com/projects/SPF2 . Video . Reviews and Rebuttal . Reviews &amp; Rebuttal . ",
+    "url": "http://localhost:4000/paper_6/",
+    "relUrl": "/paper_6/"
+  },"10": {
     "doc": "Tuesday",
     "title": "Tuesday",
     "content": " ",
     "url": "http://localhost:4000/tuesday",
     "relUrl": "/tuesday"
-  },"7": {
+  },"11": {
     "doc": "Wednesday",
     "title": "Wednesday",
     "content": " ",

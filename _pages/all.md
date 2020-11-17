@@ -5,6 +5,7 @@ has_toc: false
 nav_order: 1
 permalink: /all
 ---
+
 {%- assign children_list = site.html_pages | where_exp:"item", "item.grand_parent != nil" | sort_natural:"title" -%}
 
 # All Papers
