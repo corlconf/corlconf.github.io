@@ -10,8 +10,8 @@ permalink: /awards
 #  <i class="fa fa-cogs" aria-hidden="true"></i> Best System Paper Award Nominees 
 
 <ul>
-    <li> <a href="https://corlconf.github.io/paper_53/">SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving</a> by Ajay Tanwani</li>
-    <li> <a href="https://corlconf.github.io/paper_350/">DIRL: Domain-Invariant Representation Learning for Sim-to-Real Transfer</a> by Ming Zhou et al.</li> 
+    <li> <a href="https://corlconf.github.io/paper_53/">SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving</a> by Ming Zhou et al.</li>
+    <li> <a href="https://corlconf.github.io/paper_350/">DIRL: Domain-Invariant Representation Learning for Sim-to-Real Transfer</a> by Ajay Tanwani</li> 
 </ul>
 
 
