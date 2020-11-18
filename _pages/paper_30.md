@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/columbia-robovision/decentralized-multiarm
-youtube_id: 
+youtube_id: NDGui1ADQr8
 pdf: https://drive.google.com/file/d/1duaJ_QNvyeM5-nUI6eFaNdLwpem2-qDC/view
 ---
 
