@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/Yusufma03/CVRL
-youtube_id: 
+youtube_id: BcZDZR-Vl2c
 pdf: https://drive.google.com/file/d/1A7DE9xPwZJjnPh_qol8gJW0RFWBlYyG3/view
 ---
 

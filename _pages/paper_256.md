@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/roamlab/HWasP-toy-problem
-youtube_id: 
+youtube_id: E28Cu_agaoc
 pdf: https://drive.google.com/file/d/1iT6r4tI_d-Nfz1jx6zBVk06fpls9aBLz/view
 ---
 

@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/hai-h-nguyen/belief-grounded-network
-youtube_id: 
+youtube_id: GsJMt--ZARQ
 pdf: https://drive.google.com/file/d/1uLbHW9VgbgvD_QKHUbY1UB2zbOREFm7B/view
 ---
 

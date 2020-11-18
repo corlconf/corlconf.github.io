@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/sontung/location-based-generative
-youtube_id: 
+youtube_id: pHGppsmcnx4
 pdf: https://drive.google.com/file/d/1Pe_5WDbMg9UsaPR5GWXJKut7E1c5Vgw-/view
 ---
 

@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/tianchenji/Multimodal-SVAE
-youtube_id: 
+youtube_id: L3dP8tdsQqs
 pdf: https://drive.google.com/file/d/1PIdenJv-TtQGpby5kJb8VgXRBX8QxGeF/view
 ---
 

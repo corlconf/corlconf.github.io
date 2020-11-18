@@ -8,7 +8,7 @@ grand_parent: All Papers
 parent: Wednesday
 supp: 
 code: https://github.com/joel99/habitat-pointnav-aux
-youtube_id: 
+youtube_id: XulDdEj3cZU
 pdf: https://drive.google.com/file/d/1okMSBRynoPny7JLqiC1yl2HWSBxD7Ioj/view
 ---
 
